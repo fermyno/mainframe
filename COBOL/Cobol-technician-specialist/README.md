@@ -5,3 +5,4 @@ Repositorio de estudios desarrollados como requisitos para la conclusión del Cu
 ## Datos del Curso:
 
 * **Alumno**: **Fermyno Gutierrez**
+* **Curso**: **Diploma en Cobol**
