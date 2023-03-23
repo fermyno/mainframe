@@ -14,3 +14,5 @@ Repositorio de estudios desarrollados como requisitos para la conclusión del Cu
 ## Ejercicios
 
 * **UNIDAD 8:**
+  **Programa:** [U8-PE-ASI10](src/U8-PE-ASI10.cbl)
+  
