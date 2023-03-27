@@ -22,3 +22,5 @@ Repositorio de estudios desarrollados como requisitos para la conclusión del Cu
   **Descripción:** PROGRAMA QUE CREA UN ARCHIVO SECUENCIAL DE ARTICULOS VACIO.  
 
 * **UNIDAD 9:**  
+  **Programa:** [U9-PE-AS02](src/U9-PE-AS02.cbl)  
+  
