@@ -30,3 +30,4 @@ Repositorio de estudios desarrollados como requisitos para la conclusión del Cu
   **Descripción:** ESTE PROGRAMA LEE LA INFORMACION DE LOS ARCHIVOS SECUENCIALES DE ARTICULOS Y DE TIPOS DE ARTICULOS Y MUESTRA SU INFORMACION POR PANTALLA LEE LOS ARCHIVOS ATPAR.SEC Y AARTI.SEC
 
 * **UNIDAD 9:**  
+  **Programa:** [U9-PE-AS04](src/U9-PE-AS04.cbl)
