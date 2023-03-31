@@ -40,3 +40,4 @@ Repositorio de estudios desarrollados como requisitos para la conclusión del Cu
 * **UNIDAD 10:**  
   **Programa:** [U10-PE-ASI01](src/U10-PE-ASI01.cbl)  
   **Descripción:** EL ARCHIVO ALMACENADO EN DISCO CON EL NOMBRE 'AARTI.IND' ES UN ARCHIVO SECUENCIAL INDEXADO.  
+  SU CLAVE PRIMARIA = COD-ARTI CLAVE SECUNDARIA COD-TPARTI (ACEPTA DUPLICADOS) SERA ACEDIDO DE FORMA ALEATORIA.  
