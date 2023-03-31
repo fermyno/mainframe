@@ -38,5 +38,5 @@ Repositorio de estudios desarrollados como requisitos para la conclusión del Cu
   **Descripción:** ESTE PROGRAMA LEE LA INFORMACION DEL ARCHIVO SECUENCIAL DE ARTICULOS Y ELIMINA LOS ARTICULOS DE DEPORTES. EN REALIDAD GRABA SOLAMENTE LOS REGISTROS REQUERIDOS EN UN NUEVO ARCHIVO.  
 
 * **UNIDAD 10:**  
-  **Programa:** [U10-PE-ASI01](src/U10-PE-ASI01.cbl)
+  **Programa:** [U10-PE-ASI01](src/U10-PE-ASI01.cbl)  
 
