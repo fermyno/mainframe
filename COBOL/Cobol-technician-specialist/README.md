@@ -47,4 +47,5 @@ Repositorio de estudios desarrollados como requisitos para la conclusión del Cu
    **Programa:** [U10-PE-ASI03](src/U10-PE-ASI03.cbl)  
    **Descripción:** PROGRAMA QUE LEE EN SECUENCIA LOS REGISTROS DEL ARCHIVO SECUENCIAL DE ARTICULOS.
   
+ * **UNIDAD 10:**
   
