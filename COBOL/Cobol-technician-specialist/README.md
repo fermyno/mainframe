@@ -55,4 +55,5 @@ Repositorio de estudios desarrollados como requisitos para la conclusión del Cu
   
 * **UNIDAD 10:**  
   **Programa:** [U10-PE-ASI05](src/U10-PE-ASI05.cbl)  
-  
+  **Descripción:** PROGRAMA QUE REALIZA TODAS LAS INSTRUCCIONES DE ACCESSO ALEATORIO O DIRECTO CON EL ARCHIVO SECUENCIAL INDEXADO DE ARTICULOS: 
+  READ, WRITE, DELETE, REWRITE Y  
