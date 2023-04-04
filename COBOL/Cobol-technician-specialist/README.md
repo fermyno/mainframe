@@ -54,3 +54,5 @@ Repositorio de estudios desarrollados como requisitos para la conclusión del Cu
   TIPO DE ARTICULOS ACCEDE AL ARCHIVO SECUENCIAL INDEXADO DE TIPOS DE ARTICULOS PARA SACAR SU DESCRIPCION.
   
 * **UNIDAD 10:**  
+  **Programa:** [U10-PE-ASI05](src/U10-PE-ASI05.cbl)  
+  
