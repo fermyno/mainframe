@@ -59,4 +59,4 @@ Repositorio de estudios desarrollados como requisitos para la conclusión del Cu
   READ, WRITE, DELETE, REWRITE Y GESTIONA LOS ERRORES CON LA CLAUSULA INVALID. 
 
 * **UNIDAD 10:**  
-  **Programa:** [U10-PE-ASI06](src/U10-PE-ASI06.cbl)
+  **Programa:** [U10-PE-ASI06](src/U10-PE-ASI06.cbl)  
