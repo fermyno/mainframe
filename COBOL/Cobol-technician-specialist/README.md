@@ -62,4 +62,4 @@ Repositorio de estudios desarrollados como requisitos para la conclusión del Cu
   **Programa:** [U10-PE-ASI06](src/U10-PE-ASI06.cbl)  
   **Descripción:** PROGRAMA QUE MUESTRA POR PANTALLA TODOS LOS REGISTROS DEL ARCHIVO INDEXADO DE ARTICULOS QUE PERTENENCEN A UN TIPO DE ARTICULO DETERMINADO.  
 * **UNIDAD 10:**  
-  **Programa:** [U10-PE-ASI09](src/U10-PE-ASI09.cbl)
+  **Programa:** [U10-PE-ASI09](src/U10-PE-ASI09.cbl)  
