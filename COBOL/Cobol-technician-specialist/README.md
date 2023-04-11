@@ -75,4 +75,4 @@ Repositorio de estudios desarrollados como requisitos para la conclusión del Cu
 
 * **UNIDAD 11:**  
   **Programa:** [U11-PE-AR01](src/U11-PE-AR01.cbl)  
-  **Descripción:** PROGRAMA QUE CREA UN ARCHIVO RELATIVO DE ARTICULOS A PARTIR DEL ARCHIVO SECUENCIAL DE ARTICULOS.
+  **Descripción:** PROGRAMA QUE CREA UN ARCHIVO RELATIVO DE ARTICULOS A PARTIR DEL ARCHIVO SECUENCIAL DE ARTICULOS.  
