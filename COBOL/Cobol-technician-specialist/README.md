@@ -97,4 +97,4 @@ Repositorio de estudios desarrollados como requisitos para la conclusión del Cu
   **Requisitos:** CREAR UN SISTEMA COMPLETO DE MANEJOS DE DATOS DE ACUERDO CON LA [PROPUESTA DE TRABAJO](trabajo-final/TO_Laboratorio_de_Programacion.pdf).  
   **Entrega del Trabajo:** PARA LLEVAR A CABO LA SOLUCIÓN ADOPTADA, SE OPTÓ POR EL DESARROLLO DE UN SISTEMA INFORMÁTICO EN COBOL CON 
   CARACTERÍSTICAS DETALLADAS EN EL DOCUMENTO 
-  **[REPORTE FINAL](trabajo-final/Reporte_Final.pdf)**
+  **[REPORTE FINAL]**(trabajo-final/Reporte_Final.pdf)
