@@ -92,6 +92,6 @@ Repositorio de estudios desarrollados como requisitos para la conclusión del Cu
   **Descripción:** PROGRAMA QUE MANEJA LOS ARCHIVOS: CLIENTES.DAT, SUCURSAL.DAT, PROVINCIAS.DAT. EL PROGRAMA DEBE PERMITIR:  
   AÑADIR CLIENTES, BORRAR CLIENTES, CONSULTAR CLIENTES, Y MODIFICAR CLIENTES. ADEMAS EL ALUMNO DEBE CREAR PROGRAMAS PARA GENERAR TODAS LAS BASE DE DATOS.  
 
-* **TRABAJO FINAL DE CURSO:**
-  **Programa:** [U9-PE-AS01](trabajo-final/fermin.cbl)
+* **TRABAJO FINAL DE CURSO:**  
+  **Programa:** [U9-PE-AS01](trabajo-final/fermin.cbl)  
   **Requisitos:** CREAR UN SISTEMA COMPLETO DE MANEJOS DE DATOS DE ACUERDO CON LA [PROPUESTA DE TRABAJO](trabajo-final/TO_Laboratorio_de_Programacion.pdf).  
