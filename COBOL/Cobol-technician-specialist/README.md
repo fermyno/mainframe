@@ -100,3 +100,5 @@ Repositorio de estudios desarrollados como requisitos para la conclusión del Cu
   **Reporte Final:** [REPORTE](trabajo-final/instrucciones/Reporte_Final.pdf)
 
 ## Capturas de Pantalla del Trabajo Final de Curso  
+
+![Menú principal](images/screenshot-01.png)
