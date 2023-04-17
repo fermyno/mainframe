@@ -98,3 +98,4 @@ Repositorio de estudios desarrollados como requisitos para la conclusión del Cu
   **Entrega del Trabajo:** PARA LLEVAR A CABO LA SOLUCIÓN ADOPTADA, SE OPTÓ POR EL DESARROLLO DE UN SISTEMA INFORMÁTICO EN COBOL CON 
   CARACTERÍSTICAS DETALLADAS EN EL DOCUMENTO  
   **Reporte Final:** [REPORTE](trabajo-final/instrucciones/Reporte_Final.pdf)
+
