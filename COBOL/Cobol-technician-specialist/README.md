@@ -102,3 +102,4 @@ Repositorio de estudios desarrollados como requisitos para la conclusión del Cu
 ## Capturas de Pantalla del Trabajo Final de Curso  
 
 ![Menú principal](images/screenshot-01.png)
+<br />
