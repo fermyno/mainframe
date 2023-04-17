@@ -99,4 +99,4 @@ Repositorio de estudios desarrollados como requisitos para la conclusión del Cu
   CARACTERÍSTICAS DETALLADAS EN EL DOCUMENTO  
   **Reporte Final:** [REPORTE](trabajo-final/instrucciones/Reporte_Final.pdf)
 
-## Capturas de Pantalla del Trabajo Final de Curso
+## Capturas de Pantalla del Trabajo Final de Curso  
