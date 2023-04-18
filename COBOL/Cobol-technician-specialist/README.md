@@ -103,3 +103,5 @@ Repositorio de estudios desarrollados como requisitos para la conclusión del Cu
 
 ![Menú principal](images/screenshot-01.png)
 <br />
+![Actualizar fichero maestro de clientes](images/screenshot-02.png)
+<br>
