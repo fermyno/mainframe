@@ -105,12 +105,13 @@ Repositorio de estudios desarrollados como requisitos para la conclusión del Cu
 <br />
 
 ![Actualizar fichero maestro de clientes](images/screenshot-02.png)
-<br>
+<br />
 
 ![Actualizar fichero maestro de clientes](images/screenshot-03.png)
-<br>
+<br />
 
 ![Mantenimiento del fichero de clientes](images/screenshot-04.png)
-<br>
+<br />
 
 ![Mantenimiento del fichero de clientes](images/screenshot-05.png)
+<br />
