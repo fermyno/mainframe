@@ -115,3 +115,5 @@ Repositorio de estudios desarrollados como requisitos para la conclusión del Cu
 
 ![Mantenimiento del fichero de clientes](images/screenshot-05.png)
 <br />
+
+![Mantenimiento del fichero de clientes](images/screenshot-06.png)
