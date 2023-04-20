@@ -126,4 +126,6 @@ Repositorio de estudios desarrollados como requisitos para la conclusión del Cu
 <br />
 
 ![Generar informe de clientes](images/screenshot-09.png)
+<br />
+
 ![Salir del Sistema](images/screenshot-10.png)
