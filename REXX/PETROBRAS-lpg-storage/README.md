@@ -15,3 +15,5 @@ O objetivo era implementar um programa para permitir o arquivamento das mediçõ
 
 Cabe ressaltar que, naquela época, não havia Telemetria e as medições eram realizadas manualmente, in situ, com apontamentos em papel.   
 Com a utilização do programa, a impressão de arquivo texto com os gráficos de medições realizados pelo programa foi considerado um grande avanço pelos profissionais do setor.
+
+**Desenvolvimento do Projeto:**  
