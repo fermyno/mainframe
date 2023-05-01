@@ -18,3 +18,4 @@ Com a utilização do programa, a impressão de arquivo texto com os gráficos d
 
 **Desenvolvimento do Projeto:**  
 **Fermyno Gutierrez**  
+REFAP - Refinaria Alberto Pasqualini  
