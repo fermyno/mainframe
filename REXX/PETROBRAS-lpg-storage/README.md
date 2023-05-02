@@ -25,3 +25,5 @@ PETROBRAS Petróleo Brasileiro S.A.
 
 A Petrobras é uma sociedade anônima cujo acionista majoritário é o Governo do Brasil (União). Segundo a Wikipedia [1], "pera atualmente em 14 países, no segmento de energia, prioritariamente nas áreas de exploração, produção, refino, comercialização e transporte de petróleo, gás natural e seus derivados". Em 2020, a Petrobras foi classificada no ranking Forbes Global 2000 como a septuagésima maior empresa pública do mundo. 
 
+# Resumo da Análise de Requisitos (RFP)
+
