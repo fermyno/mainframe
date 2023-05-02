@@ -20,3 +20,6 @@ Com a utilização do programa, a impressão de arquivo texto com os gráficos d
 **Fermyno Gutierrez**  
 REFAP - Refinaria Alberto Pasqualini  
 PETROBRAS Petróleo Brasileiro S.A.  
+
+# Sobre a Empresa:
+
