@@ -27,3 +27,18 @@ A Petrobras é uma sociedade anônima cujo acionista majoritário é o Governo d
 
 # Resumo da Análise de Requisitos (RFP)
 
+## Requisitos Funcionais:
+
+O sistema LPG STORAGE deve permitir:
+
+- Inclusão de medições de temperatura,
+- Inclusão de medições de pressao,
+- Arquivamento das medições realizadas para consultas futuras,
+- Geração de relatório visual das medições, bem como o range aceito (temperatura: 107K - 120K, e pressao: 800psi - 1100psi).
+
+## Requisitos Não-funcionais:
+
+- O programa deve ser acessado através de emulador de terminal 3270 nos computadores existentes na organização, mais precisamente o padrão IBM/PC 286 e 386,
+- O programa deve ser executado em ambiente mainframe,
+- O programa deve utilizar a linguagem REXX, visto que exige uma interação do usuário com o sistema em tempo real, e não serão disponibilizadas ferramentas para compilação ou execução de JCL.
+
