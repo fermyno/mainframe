@@ -57,3 +57,7 @@ O sistema LPG STORAGE deve permitir:
 ![Relatório de medições](images/screenshot-03.jpg)
 <br>
 
+
+# Referências:
+
+[1] https://pt.wikipedia.org/wiki/Petrobras
