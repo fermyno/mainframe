@@ -47,3 +47,10 @@ O sistema LPG STORAGE deve permitir:
   **Exemplo de data set para uso no mainframe:** [GR.REFAP.14138.GLP.TXT](src/GR.REFAP.14138.GLP.TXT)  
   
 # Capturas de Tela:  
+![Tela Inicial](images/screenshot-01.png)
+<br>
+![Menu Principal](images/screenshot-02.png)
+<br>
+![Relatório de medições](images/screenshot-03.png)
+<br>
+
