@@ -1,0 +1,50 @@
+11111-X9.999.999.999,99ATENCAO:CLIENTE FICTICIORua dos Olivais, 35. Casa 3318760
+11112-X      113.254,00Ala Larissa Olivia GomesBeco B, 503, Vila Jardim  3808332
+11113-X    1.235.489,12Heloise Carla Elisa     Rua Augusto Pestana, 630. 3291274
+11114-X          958,36Daniel Francisco Calder Rua Alda de Oliveira Ribas3324698
+11115-X            1,32Victor Paulo Manuel DiasRua Seiscentos e Trinta,143324580
+11116-X    1.235.458,46Josefa Sara Malu BatistaRua Cubatao, 409. Sarandi.5076374
+11117-X       99.456,57Rafaela Malu Barbara LuzPraça Mil e Doze, 213.    3326585
+11118-X      665.456,98Filipe Joao Castro      Acesso Pontilhao, 317.    3321554
+11119-X       18.236,58Nathan Ricardo Castro   Av. Independencia, 890.   3126588
+11120-X   59.654.568,66Mateus Benicio GuilhermeRua Cristiano Fischer, 3143380235
+11121-X          134,18Catarina Carolina Sueli Beco Um, 458. Morro Alto,23585965
+11122-X  132.566.457,89Benedito Sergio Jorge   Rua Matias Jose Bins, 388.3252121
+11123-X   59.465.484,47Nicole Tereza Alves     Avenida Pastor Ernesto,29 3325688
+11124-X  445.568.447,30Ryan Carlos da Costa    Rua Joao Morales, 887. Ap43225255
+11125-X        6.123,48Isadora Stella Mariane  Av. Dr. Joao Dentice, 216.3321225
+11126-X3.154.698.748,12Kaique Pedro Aparicio   Acesso Q, 945. Santa Terez3325556
+11127-X    3.225.697,01Osvaldo Gabriel da Mata R Dr Ernesto Miranda, 584.2655852
+11128-X   18.326.457,45Luna Simone Oliveira    Praca Dezenove, 832. Farra3325655
+11129-X      653.658,77Rafael Filipe Bryan Lua Av. Ipiranga 1075, 486.   3322121
+11130-X       69.757,48Alana Emanuelly Elaine  Rua Alcindo Guanabara, 8373265532
+11131-X    1.366.485,45Kevin Kaique Kaique Vie Rua Santo Antonio, 218.   3325265
+11132-X   27.698.782,69Leonardo Samuel Lorenzo Beco D, 875. Cristal      3322524
+11133-X    7.998.364,12Alexandre Marcelo Viana Rua Otavio Rodrigues, 23 A3252335
+11134-X        3.659,78Regina Adriana Santos   Rua Vaticano, 112. Agronom3325248
+11135-X       89.567,45Hadassa Patricia        Travessa Tres, 338. Bom Je3125569
+11136-X  102.548.214,00Ian Rodrigo Moraes      Rua Luiz Vasques, 956.    3358744
+11137-X    2.665.478,23Allana Heloise Barroso  Praca Edgar Schneider, 7833236557
+11138-X      158.247,69Lucas Mateus Rezende    R Sto Camaratta-Santino, 53324984
+11139-X      987.224,36Victor Bernardo Marcelo Rua Alfonso Klusener, 792.3344658
+11140-X    4.336.788,02Analu Elaine Moreira    Beco Tres, 744. Protasio  3343532
+11141-X       74.365,28Sueli Malu Pinto        Praca Mil e Doze, 910.    3332558
+11142-X   18.787.325,58Andrea Caroline CarvalhoRua Itagiba, 199. Santa Te3356955
+11143-X    9.999.547,55Ruan Levi Silva         Beco Um, 652. Aberta dos M3336548
+11144-X      133.487,99Lucca Vitor da Mata     R Aquiles Porto Alegre, 843256654
+11145-X      665.487,53Davi Thomas Noah BarbosaRua Dois, 138. Humaita    3325669
+11146-X       74.469,48Anthony Igor Santos     Rua Vitor Teixeira, 1026  3325499
+11147-X    1.758.465,00Cecilia Jennifer MartinsRua Lelis Leo Garcia, 365 3369874
+11148-X       69.457,78Nicolas Oliver Anderson R Olynto Silva,658        3346544
+11149-X   98.663.487,58Daniela Elza Peixoto    Trv Esporte Clube Cruzeiro3365435
+11150-X  177.694.487,02Helena Andreia Figueira Avenida Maua, 309.        3334658
+11151-X    6.987.445,06Camila Malu Stella      Rua Santa Maria, 379.     3465448
+11152-X   67.783.254,33Edson Samuel Assis      Rua Homem de Mello, 934.  3346254
+11153-X2.335.857.635,18Sara Raysa Stefany SantoBeco Dois, 308. Ponta Gros3346598
+11154-X  787.362.498,32Rafael Antonio Rezende  Esplanada Vaticano, 840.  3325654
+11155-X   74.899.836,04Nicolas Vinicius Thomas Acesso Quarenta e Seis, 463243225
+11156-X  695.226.465,26Marcos Vinicius Fortes  Rua Flor de Pessegueiro,153324657
+11157-X            0,00Manoel Caleb Assis      Viela Dois, 928. Partenon 3324654
+11158-X       18.001,65Bernardo Roberto MoreiraR Prof.Leopoldo Tietbohl,93324652
+11159-X            1,99Lorenzo Lorenzo Pinto   Rua Maria Flor Vieira, 3413324658
+11160-X    9.999.868,16Manoel Heitor Souza     Rua C, 435. Hipica        3323655
