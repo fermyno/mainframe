@@ -11,5 +11,7 @@ O objetivo era implementar rapidamente relatórios de contas nas agências banc�
 Cabe ressaltar que, naquela época, não existia a Internet como conhecemos atualmente, e a conferência dos saldos nas contas era realizado "em papel", e a sua utilização era de fundamental importância na rotina dos escriturários.
 
 **Desenvolvimento do Projeto:**  
-**Fermyno Gutierrez**  
+Fermyno Gutierrez  
+
+# Resumo da Análise de Requisitos (RFP)
 
