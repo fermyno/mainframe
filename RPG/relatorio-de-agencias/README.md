@@ -53,13 +53,6 @@ O relatório deve permitir:
 
 ![Página 1](report/relconta-pag-1.jpg)
 ![Página 2](report/relconta-pag-2.jpg)
-<br>
-
 ![Página 3](report/relconta-pag-3.jpg)
-<br>
-
 ![Página 4](report/relconta-pag-4.jpg)
-<br>
-
 ![Página 5](report/relconta-pag-5.jpg)
-<br>      
