@@ -52,8 +52,6 @@ O relatório deve permitir:
 # Capturas de Tela:
 
 ![Página 1](report/relconta-pag-1.jpg)
-<br>
-
 ![Página 2](report/relconta-pag-2.jpg)
 <br>
 
