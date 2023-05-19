@@ -31,9 +31,9 @@ O relatório deve permitir:
 
 # Programa:
 
-* **Programa:** [RELCONTA.JCL](jcl/RELCONTA.JCL.TXT)
-  **Exemplo de data set:** [BANCO80.TXT](data-set/BANCO80.TXT)
-  **Fontes consultadas:**
+* **Programa:** [RELCONTA.JCL](jcl/RELCONTA.JCL.TXT)  
+  **Exemplo de data set:** [BANCO80.TXT](data-set/BANCO80.TXT)  
+  **Fontes consultadas:**  
     - (1971) INTRODUCTION TO RPG II SYSTEMS
       IBM GC21-7514-1
     - (1973) BUSINESS SYSTEMS WITH PUNCHED CARD DATA PROCESSIND AND
