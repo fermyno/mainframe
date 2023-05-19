@@ -23,3 +23,9 @@ O relatório deve permitir:
 - Impressão em 80 colunas;
 - Impressão de banco, agência e data no cabeçalho.
 
+## Requisitos Não-funcionais:
+
+- O programa deve ser acessado através dos terminais burros existentes nas agências,
+- O programa deve ser executado em ambiente mainframe,
+- O programa deve utilizar a linguagem RPGII, visto que pode ser executado rapidamente através da submissão de um JCL.
+
