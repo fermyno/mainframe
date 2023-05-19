@@ -51,17 +51,17 @@ O relatório deve permitir:
       
 # Capturas de Tela:
 
-![Página 1](report/relconta-pag-1.png)
+![Página 1](report/relconta-pag-1.jpg)
 <br>
 
-![Página 2](report/relconta-pag-2.png)
+![Página 2](report/relconta-pag-2.jpg)
 <br>
 
-![Página 3](report/relconta-pag-3.png)
+![Página 3](report/relconta-pag-3.jpg)
 <br>
 
-![Página 4](report/relconta-pag-4.png)
+![Página 4](report/relconta-pag-4.jpg)
 <br>
 
-![Página 5](report/relconta-pag-5.png)
+![Página 5](report/relconta-pag-5.jpg)
 <br>      
