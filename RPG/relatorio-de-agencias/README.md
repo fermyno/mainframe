@@ -49,4 +49,19 @@ O relatório deve permitir:
     - (1982) IBM SYSTEM/34 RPG II REFERENCE MANUAL
       SC21-7667-4 FILE NO. S34-28 PROGRAM NUMBER 5726-RG1
       
-      
+# Capturas de Tela:
+
+![Página 1](report/relconta-pag-1.png)
+<br>
+
+![Página 2](report/relconta-pag-2.png)
+<br>
+
+![Página 3](report/relconta-pag-3.png)
+<br>
+
+![Página 4](report/relconta-pag-4.png)
+<br>
+
+![Página 5](report/relconta-pag-5.png)
+<br>      
