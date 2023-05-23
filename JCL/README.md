@@ -1,4 +1,4 @@
-# COBOL
+# JCL - Job Control Language
 
 Repositório de programas escritos em JCL (Job Control Language) para uso em mainframes IBM.  
 
