@@ -7,7 +7,7 @@ Repositório de programas escritos em JCL (Job Control Language) para uso em mai
 -->
 <table border="0" cellspacing="2">
   <tr>
-    <td valign="left">[(https://github.com/fermyno/mainframe/tree/main/JCL/src/newuser1.txt)NEWUSER1:]</td>
+    <td valign="left">[NEWUSER1:](https://github.com/fermyno/mainframe/tree/main/JCL/src/newuser1.txt)</td>
     <td valign="left">JCL para criar usuários administradores com acesso ao DB2.</td>
   </tr>
 
