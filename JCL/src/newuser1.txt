@@ -1,22 +1,22 @@
 //NEWUSER1 JOB 1,'ADD NEW USER',
 //            MSGCLASS=X,MSGLEVEL=(1,1),
 //            NOTIFY=&SYSUID,TIME=30
-//**************************************************************//
-//* JCL to create new user (admin)                             *//
-//* Created by Fermyno Gutierrez - fermyno@gmail.com           *//
-//* Based on IBM documentation                                 *//
-//* International Technical Support Organization               *//
-//* S/390 Partners in Development:                             *//
-//* OS/390 (and z/OS) New Users Cookbook                       *//
-//* November 2001 SG24-6204-00                                 *//
-//*                                                            *//
-//* How to replace:                                            *//
-//* C ALL 'USERLOGIN' 'XYZ'          <= Ex: FERMYNO            *//
-//* C ALL 'USERNAME' 'XYZ'           <= Ex: FERMYNO GUTIERREZ  *//
-//* C ALL 'USERUNIX' 'xyz'           <= Ex: fermyno            *//
-//* Password: NEWPASS1                                         *//
-//*                                                            *//
-//**************************************************************//
+//**********************************************************************
+//* JCL to create new user (admin)                                   
+//* Created by Fermyno Gutierrez - fermyno@gmail.com           
+//* Based on IBM documentation                                 
+//* International Technical Support Organization               
+//* S/390 Partners in Development:                             
+//* OS/390 (and z/OS) New Users Cookbook                       
+//* November 2001 SG24-6204-00                                 
+//*                                                            
+//* How to replace:                                            
+//* C ALL 'USERLOGIN' 'XYZ'          <= Ex: FERMYNO            
+//* C ALL 'USERNAME' 'XYZ'           <= Ex: FERMYNO GUTIERREZ  
+//* C ALL 'USERUNIX' 'xyz'           <= Ex: fermyno            
+//* Password: NEWPASS1                                         
+//*                                                            
+//**********************************************************************
 //RACF EXEC PGM=IKJEFT01
 //SYSTSPRT DD SYSOUT=*
 //SYSPRINT DD SYSOUT=*
@@ -42,23 +42,23 @@
   SETROPTS REFRESH RACLIST(TSOPROC ACCTNUM TSOAUTH)
   LU USERLOGIN
   LD DA('USERLOGIN.*') ALL/*
-//**************************************************************//
-//* Add an ALIAS to the user catalog (Not used with the ADCD   *//
-//* system unless you added a user catalog!)                   *//
-//**************************************************************//
+//**********************************************************************
+//* Add an ALIAS to the user catalog (Not used with the ADCD   
+//* system unless you added a user catalog!)                   
+//**********************************************************************
 //ALIAS EXEC PGM=IDCAMS
 //SYSPRINT DD SYSOUT=*
 //SYSIN    DD *
   DEFINE ALIAS (NAME(USERLOGIN) RELATE(CATALOG.RACCAT))
-//**************************************************************//
-//* Create an ISPF profile data set. (Not needed with AD, but  *//
-//* this allows you to select volser for ISPF profiles.)       *//
-//**************************************************************//
+//**********************************************************************
+//* Create an ISPF profile data set. (Not needed with AD, but  
+//* this allows you to select volser for ISPF profiles.)       
+//**********************************************************************
 //ISPF EXEC PGM=IEFBR14
 //DD1     DD DSN=USERLOGIN.ISPF.ISPPROF,DISP=(,CATLG),
 //         VOL=SER=OS39M1,UNIT=3390,
 //         DCB=(LRECL=80,RECFM=FB,BLKSIZE=0),
 //         SPACE=(TRK,(3,3,10))
-//**************************************************************//
-//* Remember to update the ALIAS job (if you have one)         *//
-//**************************************************************//
+//**********************************************************************
+//* Remember to update the ALIAS job (if you have one)         
+//**********************************************************************
