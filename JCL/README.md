@@ -38,8 +38,12 @@ Repositório de programas escritos em JCL (Job Control Language) para uso em mai
     <td valign="left">JCL para criar mais de um membro em data sets do tipo PDS.</td>
   </tr>
   <tr>
-    <td valign="left"><a href="https://github.com/fermyno/mainframe/tree/main/JCL/src/DELPDS1.txt">DELPS1:</a></td>
+    <td valign="left"><a href="https://github.com/fermyno/mainframe/tree/main/JCL/src/DELPS1.txt">DELPS1:</a></td>
     <td valign="left">JCL para excluir um data set do tipo PS (sequencial).</td>
+  </tr>
+  <tr>
+    <td valign="left"><a href="https://github.com/fermyno/mainframe/tree/main/JCL/src/DELPS2.txt">DELPS2:</a></td>
+    <td valign="left">JCL para excluir mais de um data set do tipo PS (sequencial).</td>
   </tr>
 
 
