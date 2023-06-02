@@ -57,10 +57,13 @@ Repositório de programas escritos em JCL (Job Control Language) para uso em mai
     <td valign="left"><a href="https://github.com/fermyno/mainframe/tree/main/JCL/src/DELPDS2.txt">DELPDS2:</a></td>
     <td valign="left">JCL para excluir mais de um data set do tipo PDS (particionado).</td>
   </tr>
-
   <tr>
     <td valign="left"><a href="https://github.com/fermyno/mainframe/tree/main/JCL/src/DELPDSM1.txt">DELPDSM1:</a></td>
     <td valign="left">JCL para excluir um membro de um data set do tipo PDS (particionado).</td>
+  </tr>
+  <tr>
+    <td valign="left"><a href="https://github.com/fermyno/mainframe/tree/main/JCL/src/DELPDSM2.txt">DELPDSM2:</a></td>
+    <td valign="left">JCL para excluir mais de um membro de um data set do tipo PDS (particionado).</td>
   </tr>
 
 </table>
