@@ -73,6 +73,10 @@ Repositório de programas escritos em JCL (Job Control Language) para uso em mai
     <td valign="left"><a href="https://github.com/fermyno/mainframe/tree/main/JCL/src/NEWPDSE1.txt">NEWPDSE1:</a></td>
     <td valign="left">JCL para criar um data set do tipo PDSE (particionado extendido) e um membro dentro do data set.</td>
   </tr>
+  <tr>
+    <td valign="left"><a href="https://github.com/fermyno/mainframe/tree/main/JCL/src/NEWPDSE2.txt">NEWPDSE2:</a></td>
+    <td valign="left">JCL para criar um data set do tipo PDSE (particionado extendido).</td>
+  </tr>
 
   
   
