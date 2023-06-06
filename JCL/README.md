@@ -1,6 +1,7 @@
 # JCL - Job Control Language
 
 Repositório de programas escritos em JCL (Job Control Language) para uso em mainframes IBM.  
+<br />
 
 <!--
   <tr>
@@ -8,6 +9,7 @@ Repositório de programas escritos em JCL (Job Control Language) para uso em mai
     <td valign="left">Descricao.</td>
   </tr>
 -->
+
 <table border="0" cellspacing="2">
   <tr>
     <td valign="left"><a href="https://github.com/fermyno/mainframe/tree/main/JCL/src/NEWUSER1.txt">NEWUSER1:</a></td>
@@ -80,6 +82,10 @@ Repositório de programas escritos em JCL (Job Control Language) para uso em mai
   <tr>
     <td valign="left"><a href="https://github.com/fermyno/mainframe/tree/main/JCL/src/PDS2PDSE.txt">PDS2PDSE:</a></td>
     <td valign="left">JCL para copiar membros de um data set do tipo PDS para data set do tipo PDSE (particionado extendido).</td>
+  </tr>
+  <tr>
+    <td valign="left"><a href="https://github.com/fermyno/mainframe/tree/main/JCL/src/PDSELIST.txt">PDSELIST:</a></td>
+    <td valign="left">JCL para listar todos os membros de um data set do tipo PDS na SYSOUT.</td>
   </tr>
 
   
