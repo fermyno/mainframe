@@ -88,6 +88,10 @@ Repositório de programas escritos em JCL (Job Control Language) para uso em mai
     <td valign="left">JCL para listar todos os membros de um data set do tipo PDS na SYSOUT.</td>
   </tr>
 
+  <tr>
+    <td valign="left"><a href="https://github.com/fermyno/mainframe/tree/main/JCL/src/COPYPS1.txt">COPYPS1:</a></td>
+    <td valign="left">JCL para realizar a cópia de um data set PS (sequencial) usando SORT.</td>
+  </tr>
   
   
   
