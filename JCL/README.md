@@ -99,6 +99,10 @@ Repositório de programas escritos em JCL (Job Control Language) para uso em mai
     <td valign="left"><a href="https://github.com/fermyno/mainframe/tree/main/JCL/src/CP50RECS.txt">CP50RECS:</a></td>
     <td valign="left">JCL para realizar a cópia dos 50 primeiros registros de um data set PS (sequencial) usando SORT.</td>
   </tr>
+  <tr>
+    <td valign="left"><a href="https://github.com/fermyno/mainframe/tree/main/JCL/src/CPYMPDS1.txt">CPYMPDS1:</a></td>
+    <td valign="left">JCL para realizar a cópia e renomear membro de um data set do tipo PDS (particionado).</td>
+  </tr>
   
   
   
