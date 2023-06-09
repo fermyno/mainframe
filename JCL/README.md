@@ -119,6 +119,10 @@ Repositório de programas escritos em JCL (Job Control Language) para uso em mai
     <td valign="left"><a href="https://github.com/fermyno/mainframe/tree/main/JCL/src/CPYMPDS5.txt">CPYMPDS5:</a></td>
     <td valign="left">JCL para omitir/excluir membros específicos durante a cópia de data sets do tipo PDS usando IEBCOPY.</td>
   </tr>
+  <tr>
+    <td valign="left"><a href="https://github.com/fermyno/mainframe/tree/main/JCL/src/CPYPSBKP.txt">CPYPSBKP:</a></td>
+    <td valign="left">JCL para realizar o backup de um data set do tipo PDS usando IEBGENER.</td>
+  </tr>
   
   
   
