@@ -111,6 +111,10 @@ Repositório de programas escritos em JCL (Job Control Language) para uso em mai
     <td valign="left"><a href="https://github.com/fermyno/mainframe/tree/main/JCL/src/CPYMPDS3.txt">CPYMPDS3:</a></td>
     <td valign="left">JCL para realizar a cópia de membros específicos de um data set do tipo PDS para outro data set PDS usando IEBCOPY.</td>
   </tr>
+  <tr>
+    <td valign="left"><a href="https://github.com/fermyno/mainframe/tree/main/JCL/src/CPYMPDS4.txt">CPYMPDS4:</a></td>
+    <td valign="left">JCL para realizar a cópia de membros específicos de dois data sets do tipo PDS para um data set PDS usando IEBCOPY.</td>
+  </tr>
   
   
   
