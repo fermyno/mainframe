@@ -123,7 +123,10 @@ Repositório de programas escritos em JCL (Job Control Language) para uso em mai
     <td valign="left"><a href="https://github.com/fermyno/mainframe/tree/main/JCL/src/CPYPSBKP.txt">CPYPSBKP:</a></td>
     <td valign="left">JCL para realizar o backup de um data set do tipo PDS usando IEBGENER.</td>
   </tr>
-  
+  <tr>
+    <td valign="left"><a href="https://github.com/fermyno/mainframe/tree/main/JCL/src/COMP2PDS.txt">COMP2PDS:</a></td>
+    <td valign="left">JCL para realizar a comparação dentre dois data sets do tipo PDS usando IEBCOMPR.</td>
+  </tr>  
   
   
   
