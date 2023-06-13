@@ -135,7 +135,10 @@ Repositório de programas escritos em JCL (Job Control Language) para uso em mai
     <td valign="left"><a href="https://github.com/fermyno/mainframe/tree/main/JCL/src/CMPRSDS1.txt">CMPRSDS1:</a></td>
     <td valign="left">JCL para comprimir um data set do tipo PDS usando IEBCOPY.</td>
   </tr>    
-  
+  <tr>
+    <td valign="left"><a href="https://github.com/fermyno/mainframe/tree/main/JCL/src/DEL2REC1.txt">DEL2REC1:</a></td>
+    <td valign="left">JCL para ordenar e remover registros duplicados de um data set do tipo PS usando SORT.</td>
+  </tr>     
   
   
   
