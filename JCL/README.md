@@ -131,7 +131,10 @@ Repositório de programas escritos em JCL (Job Control Language) para uso em mai
     <td valign="left"><a href="https://github.com/fermyno/mainframe/tree/main/JCL/src/COMP2PS1.txt">COMP2PS1:</a></td>
     <td valign="left">JCL para realizar a comparação dentre dois data sets do tipo PS (sequencial) usando IEBCOMPR.</td>
   </tr>    
-  
+  <tr>
+    <td valign="left"><a href="https://github.com/fermyno/mainframe/tree/main/JCL/src/CMPRSDS1.txt">CMPRSDS1:</a></td>
+    <td valign="left">JCL para comprimir um data set do tipo PDS usando IEBCOPY.</td>
+  </tr>    
   
   
   
