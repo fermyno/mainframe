@@ -4,6 +4,11 @@ Repositório de programas escritos em JCL (Job Control Language) para uso em mai
 <br />
 
 <!--
+Info: todos os programas contidos neste repositório foram testados por mim nos Sistemas Operacionais z/OS e/ou OS/390.
+<br />
+-->
+
+<!--
   <tr>
     <td valign="left"><a href="">:</a></td>
     <td valign="left">Descricao.</td>
