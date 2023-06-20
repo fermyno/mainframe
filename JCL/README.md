@@ -41,7 +41,7 @@ Repositório de programas escritos em JCL (Job Control Language) para uso em mai
   </tr>
   <tr>
     <td valign="left"><a href="https://github.com/fermyno/mainframe/tree/main/JCL/src/NEWPDSM2.txt">NEWPDSM2:</a></td>
-    <td valign="left">JCL para criar mais de um membro em data sets do tipo PDS.</td>
+    <td valign="left">JCL para criar mais de um membro em data sets do tipo PDS utilizando IEBGENER.</td>
   </tr>
   <tr>
     <td valign="left"><a href="https://github.com/fermyno/mainframe/tree/main/JCL/src/DELPS1.txt">DELPS1:</a></td>
