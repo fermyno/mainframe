@@ -34,7 +34,7 @@ Info: todos os programas contidos neste repositório foram testados por mim nos 
   </tr>
   <tr>
     <td valign="left"><a href="https://github.com/fermyno/mainframe/tree/main/JCL/src/NEWPS2.txt">NEWPS2:</a></td>
-    <td valign="left">JCL para criar dois ou mais data sets do tipo PS (LRECL=80,RECFM=FB,BLKSIZE=800).</td>
+    <td valign="left">JCL para criar dois ou mais data sets do tipo PS (IEFBR14).</td>
   </tr>
   <tr>
     <td valign="left"><a href="https://github.com/fermyno/mainframe/tree/main/JCL/src/NEWPSWDT.txt">NEWPSWDT:</a></td>
