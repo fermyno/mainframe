@@ -1,8 +1,7 @@
 # JCL - Job Control Language
 
-Repositório de programas escritos em JCL (Job Control Language) para uso em mainframes IBM.  
-<br />
-Info: todos os programas contidos neste repositório foram testados por mim nos Sistemas Operacionais z/OS e/ou OS/390.
+Repositório de programas escritos em JCL (Job Control Language) para uso em mainframes IBM. 
+Todos os programas contidos neste repositório foram testados por mim nos Sistemas Operacionais z/OS e/ou OS/390.
 <br />
 
 <!--
