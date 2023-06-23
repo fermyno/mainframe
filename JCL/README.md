@@ -154,9 +154,6 @@ ESPAÇO PARA OBSERVAÇÕES:
     <td valign="left"><a href="https://github.com/fermyno/mainframe/tree/main/JCL/src/DEL2REC1.txt">DEL2REC1:</a></td>
     <td valign="left">JCL para ordenar e remover registros duplicados de um data set do tipo PS usando SORT.</td>
   </tr>     
-  
-  
-  
 </table>
 <br />
 <br />
