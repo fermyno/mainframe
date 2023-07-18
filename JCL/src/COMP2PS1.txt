@@ -14,4 +14,4 @@
 //SYSOUT   DD SYSOUT=*
 //SYSIN    DD *
   COMPARE TYPORG=PS
-/*
+//*
