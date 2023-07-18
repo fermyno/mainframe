@@ -10,4 +10,3 @@
 //            SPACE=(CYL,(10,100,4),RLSE),
 //            DCB=(LRECL=80,BLKSIZE=800,RECFM=FB,DSORG=PO)
 //*
-*
