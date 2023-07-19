@@ -144,7 +144,7 @@ Todos os programas contidos neste repositório foram testados por mim nos Sistem
   </tr>     
   <tr>
     <td valign="left"><a href="https://github.com/fermyno/mainframe/tree/main/JCL/src/FB2VB390.txt">FB2VB390:</a></td>
-    <td valign="left">JCL para converter um dataset do tipo FB (fixo-blocado) para um dataset tipo VB (largura de colunas variáveis) usando IDCAMS.</td>
+    <td valign="left">JCL para converter um data set do tipo FB (fixo-blocado) para um data set tipo VB (largura de colunas variáveis) usando IDCAMS.</td>
   </tr>  
 
 
