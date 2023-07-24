@@ -156,7 +156,7 @@ Todos os programas contidos neste repositório foram testados por mim nos Sistem
   </tr>
   <tr>
     <td valign="left"><a href="https://github.com/fermyno/mainframe/tree/main/JCL/src/LISTVTOV.txt">LISTVTOV:</a></td>
-    <td valign="left">JCL para listar o conteúdo de uma VTOC (Volume Table of Contents) usando IEHLIST.</td>
+    <td valign="left">JCL para listar o conteúdo de uma VTOC (Volume Table of Contents) usando IEHLIST. A VTOC é uma tabela que mapeia os endereços físicos dos datasets no volume e fornece informações importantes, como o nome do dataset, tamanho, tipo de registro, data de criação, entre outros detalhes. </td>
   </tr>  
 </table>
 
