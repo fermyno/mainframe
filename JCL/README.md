@@ -162,6 +162,10 @@ Todos os programas contidos neste repositório foram testados por mim nos Sistem
     <td valign="left"><a href="https://github.com/fermyno/mainframe/tree/main/JCL/src/MERGEDT1.txt">MERGEDT1:</a></td>
     <td valign="left">JCL para mesclar (MERGE) o conteúdo de dois data sets usando IEBCOPY. </td>
   </tr>  
+  <tr>
+    <td valign="left"><a href="https://github.com/fermyno/mainframe/tree/main/JCL/src/PDSLIST1.txt">PDSLIST1:</a></td>
+    <td valign="left">JCL para listar as informações de um data set do tipo PDS (particionado) na SYSOUT usando IEHLIST. </td>
+  </tr>  
 
   
 </table>
