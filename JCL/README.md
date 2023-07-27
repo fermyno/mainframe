@@ -166,7 +166,10 @@ Todos os programas contidos neste repositório foram testados por mim nos Sistem
     <td valign="left"><a href="https://github.com/fermyno/mainframe/tree/main/JCL/src/PDSLIST1.txt">PDSLIST1:</a></td>
     <td valign="left">JCL para listar as informações de um data set do tipo PDS (particionado) na SYSOUT usando IEHLIST. </td>
   </tr>  
-
+  <tr>
+    <td valign="left"><a href="https://github.com/fermyno/mainframe/tree/main/JCL/src/SCRTCHPS.txt">SCRTCHPS:</a></td>
+    <td valign="left">JCL para apagar um conjunto de dados. Este JCL usa o IEHPROGM e pode ser útil para realizar outras ações relacionadas a conjuntos de dados, além da exclusão.</td>
+  </tr> 
   
 </table>
 
