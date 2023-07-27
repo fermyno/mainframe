@@ -9,7 +9,7 @@ Repositorio de estudios desarrollados como requisitos para la conclusión del Cu
 * **Curso**: **Diploma en Cobol**
 * **Asignaturas**: [Ver programa del curso](docs/presentacion-del-curso.pdf).
 
-# Actividades Desarrolladas
+<!-- # Actividades Desarrolladas -->
 
 ## Actividades de Evaluación  
 
