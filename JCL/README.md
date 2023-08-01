@@ -154,7 +154,10 @@ Todos os programas contidos neste repositório foram testados por mim nos Sistem
     <td valign="left"><a href="https://github.com/fermyno/mainframe/tree/main/JCL/src/FB2VBZOS.txt">FB2VBZOS:</a></td>
     <td valign="left">JCL para converter um data set do tipo FB (fixo-blocado) para um data set tipo VB (largura de colunas variáveis) usando SORT no z/OS (não funciona no OS/390).</td>
   </tr>
-
+  <tr>
+    <td valign="left"><a href="https://github.com/fermyno/mainframe/tree/main/JCL/src/VB2FB390.txt">VB2FB390:</a></td>
+    <td valign="left">JCL para converter um data set do tipo VB (largura de colunas variáveis) para um data set tipo FB (fixo-blocado) usando IDCAMS.</td>
+  </tr> 
 
 
 
