@@ -156,18 +156,16 @@ Todos os programas contidos neste repositório foram testados por mim nos Sistem
   </tr>
   <tr>
     <td valign="left"><a href="https://github.com/fermyno/mainframe/tree/main/JCL/src/VB2FB390.txt">VB2FB390:</a></td>
-    <td valign="left">JCL para converter um data set do tipo VB (largura de colunas variáveis) para um data set tipo FB (fixo-blocado) usando IDCAMS.</td>
+    <td valign="left">JCL para converter um data set do tipo VB (largura de colunas variáveis) para um data set tipo FB (fixo-blocado) usando IDCAMS.  Testado no OS/390</td>
   </tr> 
   <tr>
     <td valign="left"><a href="https://github.com/fermyno/mainframe/tree/main/JCL/src/VB2FB391.txt">VB2FB391:</a></td>
-    <td valign="left">JCL para converter um data set do tipo VB (largura de colunas variáveis) para um data set tipo FB (fixo-blocado) usando IEBGENER.</td>
+    <td valign="left">JCL para converter um data set do tipo VB (largura de colunas variáveis) para um data set tipo FB (fixo-blocado) usando IEBGENER. Testado no OS/390</td>
   </tr> 
-
-
-
-
-
-  
+  <tr>
+    <td valign="left"><a href="https://github.com/fermyno/mainframe/tree/main/JCL/src/VB2FB391.txt">VB2FB391:</a></td>
+    <td valign="left">JCL para converter um data set do tipo VB (largura de colunas variáveis) para um data set tipo FB (fixo-blocado) usando SORT. Testado no z/OS.</td>
+  </tr> 
   <tr>
     <td valign="left"><a href="https://github.com/fermyno/mainframe/tree/main/JCL/src/LISTVTOV.txt">LISTVTOV:</a></td>
     <td valign="left">JCL para listar o conteúdo de uma VTOC (Volume Table of Contents) usando IEHLIST. A VTOC é uma tabela que mapeia os endereços físicos dos datasets no volume e fornece informações importantes, como o nome do dataset, tamanho, tipo de registro, data de criação, entre outros detalhes. </td>
