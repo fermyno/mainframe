@@ -190,6 +190,9 @@ Todos os programas contidos neste repositório foram testados por mim nos Sistem
     <td valign="left"><a href="https://github.com/fermyno/mainframe/tree/main/JCL/src/SPLITDS2.txt">SPLITDS2:</a></td>
     <td valign="left">JCL que lê um data set sequencial e divide o seu conteúdo em dois novos data sets usando o SORT.</td>
   </tr>   
-  
+  <tr>
+    <td valign="left"><a href="https://github.com/fermyno/mainframe/tree/main/JCL/src/SORTCP01.txt">SORTCP01:</a></td>
+    <td valign="left">JCL que lê um data set e copia o conteúdo em três outros data sets usando o SORT.</td>
+  </tr>     
 </table>
 
