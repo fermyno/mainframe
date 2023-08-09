@@ -198,7 +198,10 @@ Todos os programas contidos neste repositório foram testados por mim nos Sistem
     <td valign="left"><a href="https://github.com/fermyno/mainframe/tree/main/JCL/src/SORTWCND.txt">SORTWCND:</a></td>
     <td valign="left">JCL que copia um data set de acordo com certos critérios (omite a cópia de campos numéricos) usando o SORT.</td>
   </tr> 
-
+  <tr>
+    <td valign="left"><a href="https://github.com/fermyno/mainframe/tree/main/JCL/src/SRT1DSET.txt">SRT1DSET:</a></td>
+    <td valign="left">JCL que ordena um data set por um campo Float usando o SORT.</td>
+  </tr> 
 
 
 
