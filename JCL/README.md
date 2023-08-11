@@ -210,6 +210,11 @@ Todos os programas contidos neste repositório foram testados por mim nos Sistem
     <td valign="left"><a href="https://github.com/fermyno/mainframe/tree/main/JCL/src/SRT2FLDS.txt">SRT2FLDS:</a></td>
     <td valign="left">JCL que ordena um data set por por múltiplos campos usando o SORT.</td>
   </tr> 
+  <tr>
+    <td valign="left"><a href="https://github.com/fermyno/mainframe/tree/main/JCL/src/SRT2FRMT.txt">SRT2FRMT:</a></td>
+    <td valign="left">JCL que ordena um data set por por múltiplos campos usando o SORT FORMAT.</td>
+  </tr> 
+
   
 </table>
 
