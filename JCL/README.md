@@ -206,7 +206,10 @@ Todos os programas contidos neste repositório foram testados por mim nos Sistem
     <td valign="left"><a href="https://github.com/fermyno/mainframe/tree/main/JCL/src/SRTDTPGT.txt">SRTDTPGT:</a></td>
     <td valign="left">JCL que ordena um data set por data de pagamento (CH,A) usando o SORT.</td>
   </tr> 
-
+  <tr>
+    <td valign="left"><a href="https://github.com/fermyno/mainframe/tree/main/JCL/src/SRT2FLDS.txt">SRT2FLDS:</a></td>
+    <td valign="left">JCL que ordena um data set por por múltiplos campos usando o SORT.</td>
+  </tr> 
   
 </table>
 
