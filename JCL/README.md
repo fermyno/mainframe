@@ -219,8 +219,12 @@ Todos os programas contidos neste repositório foram testados por mim nos Sistem
     <td valign="left">JCL que ordena um data set com condição de inclusão (INCLUDE COND) usando o SORT.</td>
   </tr> 
   <tr>
+    <td valign="left"><a href="https://github.com/fermyno/mainframe/tree/main/JCL/src/SORTOCD1.txt">SORTOCD1:</a></td>
+    <td valign="left">JCL que ordena um data set com condição de inclusão (INCLUDE COND) usando o SORT.</td>
+  </tr> 
+  <tr>
     <td valign="left"><a href="https://github.com/fermyno/mainframe/tree/main/JCL/src/SORTIMC1.txt">SORTIMC1:</a></td>
-    <td valign="left">JCL que ordena um data set com múltiplas condições de inclusão (INCLUDE COND) usando o SORT.</td>
+    <td valign="left">JCL que ordena um data set com condição de omissão (INCLUDE COND) usando o SORT.</td>
   </tr>   
 </table>
 
