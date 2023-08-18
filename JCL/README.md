@@ -234,6 +234,10 @@ Todos os programas contidos neste repositório foram testados por mim nos Sistem
     <td valign="left"><a href="https://github.com/fermyno/mainframe/tree/main/JCL/src/SORTST01.txt">SORTST01:</a></td>
     <td valign="left">JCL que ordena um data set e mostra na SYSOUT apenas os registros únicos (sem os registros duplicados) usando o SORT.</td>
   </tr>   
+  <tr>
+    <td valign="left"><a href="https://github.com/fermyno/mainframe/tree/main/JCL/src/SORTWIF1.txt">SORTWIF1:</a></td>
+    <td valign="left">JCL que reformata o layout de saída de acordo com determinadas condições (IF), usando o SORT.</td>
+  </tr>   
   
 </table>
 
