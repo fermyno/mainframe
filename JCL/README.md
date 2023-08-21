@@ -6,13 +6,6 @@ Todos os programas contidos neste repositório foram testados por mim nos Sistem
 <br />
 <br />
 
-<!--
-  <tr>
-    <td valign="left"><a href="">:</a></td>
-    <td valign="left">Descricao.</td>
-  </tr>
--->
-
 <table border="0" cellspacing="2">
   <tr>
     <td valign="left"><a href="https://github.com/fermyno/mainframe/tree/main/JCL/src/NEWUSER1.txt">NEWUSER1:</a></td>
@@ -238,12 +231,10 @@ Todos os programas contidos neste repositório foram testados por mim nos Sistem
     <td valign="left"><a href="https://github.com/fermyno/mainframe/tree/main/JCL/src/SORTWIF1.txt">SORTWIF1:</a></td>
     <td valign="left">JCL que reformata o layout de saída de acordo com determinadas condições (IF), usando o SORT.</td>
   </tr>   
-
   <tr>
     <td valign="left"><a href="https://github.com/fermyno/mainframe/tree/main/JCL/src/NEWKSDS1.txt">NEWKSDS1:</a></td>
     <td valign="left">JCL para criar um data set VSAM KSDS usando o IDCAMS.</td>
   </tr>  
-
   <tr>
     <td valign="left"><a href="https://github.com/fermyno/mainframe/tree/main/JCL/src/NEWKSDS2.txt">NEWKSDS2:</a></td>
     <td valign="left">JCL para criar um data set VSAM KSDS usando o IDCAMS. Caso o data set já exista, exclui e cria novo data set.</td>
