@@ -51,6 +51,9 @@ Repositorio de estudios desarrollados como requisitos para la conclusión del Cu
 
 ![Salir del Sistema](images/screenshot-10.png)
 
+<br />
+<br />
+
 ## Ejercicios
 
 * **TRABAJO - EVALUACIÓN I:**
