@@ -56,6 +56,6 @@ Repositorio de estudios desarrollados como requisitos para la conclusión del Cu
 
 
 <!-- # Actividades Desarrolladas -->
+[Ver ejercicios del curso](actividades.md).
 <br />
-[Ver todos los ejercicios del curso](actividades.md)
 <br />
