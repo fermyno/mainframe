@@ -239,6 +239,10 @@ Todos os programas contidos neste repositório foram testados por mim nos Sistem
     <td valign="left"><a href="https://github.com/fermyno/mainframe/tree/main/JCL/src/NEWKSDS2.txt">NEWKSDS2:</a></td>
     <td valign="left">JCL para criar um data set VSAM KSDS usando o IDCAMS. Caso o data set já exista, exclui e cria novo data set.</td>
   </tr>  
+  <tr>
+    <td valign="left"><a href="https://github.com/fermyno/mainframe/tree/main/JCL/src/NEWESDS1.txt">NEWESDS1:</a></td>
+    <td valign="left">JCL para criar um data set VSAM ESDS usando o IDCAMS.</td>
+  </tr>  
   
 </table>
 
