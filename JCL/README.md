@@ -233,21 +233,21 @@ Todos os programas contidos neste repositório foram testados por mim nos Sistem
   </tr>   
   <tr>
     <td valign="left"><a href="https://github.com/fermyno/mainframe/tree/main/JCL/src/NEWKSDS1.txt">NEWKSDS1:</a></td>
-    <td valign="left">JCL para criar um data set VSAM do tipo KSDS usando o IDCAMS.</td>
+    <td valign="left">JCL para criar um data set VSAM do tipo KSDS (Key-Sequenced Data Set) usando o IDCAMS.</td>
   </tr>  
   <tr>
     <td valign="left"><a href="https://github.com/fermyno/mainframe/tree/main/JCL/src/NEWKSDS2.txt">NEWKSDS2:</a></td>
-    <td valign="left">JCL para criar um data set VSAM do tipo KSDS usando o IDCAMS. Caso o data set já exista, exclui e cria novo data set.</td>
+    <td valign="left">JCL para criar um data set VSAM do tipo KSDS (Key-Sequenced Data Set) usando o IDCAMS. Caso o data set já exista, exclui e cria novo data set.</td>
   </tr>  
   <tr>
     <td valign="left"><a href="https://github.com/fermyno/mainframe/tree/main/JCL/src/NEWESDS1.txt">NEWESDS1:</a></td>
-    <td valign="left">JCL para criar um data set VSAM do tipo ESDS usando o IDCAMS.</td>
+    <td valign="left">JCL para criar um data set VSAM do tipo ESDS (Entry-Sequenced Data Set) usando o IDCAMS.</td>
   </tr>  
   <tr>
     <td valign="left"><a href="https://github.com/fermyno/mainframe/tree/main/JCL/src/NEWLDS01.txt">NEWLDS01:</a></td>
-    <td valign="left">JCL para criar um data set VSAM do tipo ESDS usando o IDCAMS.</td>
+    <td valign="left">JCL para criar um data set VSAM do tipo LDS (Linear Data Set) usando o IDCAMS.</td>
   </tr>  
-  
+  <!-- RRDS (Relative Record Data Set) -->
   
 </table>
 
