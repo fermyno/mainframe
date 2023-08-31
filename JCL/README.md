@@ -251,6 +251,11 @@ Todos os programas contidos neste repositório foram testados por mim nos Sistem
     <td valign="left"><a href="https://github.com/fermyno/mainframe/tree/main/JCL/src/NEWRRDS1.txt">NEWRRDS1:</a></td>
     <td valign="left">JCL para criar um data set VSAM do tipo RRDS (Relative Record Data Set) usando o IDCAMS.</td>
   </tr>  
+  <tr>
+    <td valign="left"><a href="https://github.com/fermyno/mainframe/tree/main/JCL/src/DELVSAM1.txt">DELVSAM1:</a></td>
+    <td valign="left">JCL para excluir um data set VSAM usando o IDCAMS.</td>
+  </tr>  
+  
   
 </table>
 
