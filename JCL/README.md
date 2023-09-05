@@ -263,6 +263,10 @@ Todos os programas contidos neste repositório foram testados por mim nos Sistem
     <td valign="left"><a href="https://github.com/fermyno/mainframe/tree/main/JCL/src/VSAMINFO.txt">VSAMINFO:</a></td>
     <td valign="left">JCL para listar as informações de um data set VSAM usando o IDCAMS, mostrando os dados na SYSOUT.</td>
   </tr>   
+  <tr>
+    <td valign="left"><a href="https://github.com/fermyno/mainframe/tree/main/JCL/src/CPDSK2TP.txt">CPDSK2TP:</a></td>
+    <td valign="left">JCL para gravar dados em Tape Drive usando o IEBGENER.</td>
+  </tr>   
   
   
 </table>
