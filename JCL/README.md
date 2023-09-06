@@ -267,6 +267,10 @@ Todos os programas contidos neste repositório foram testados por mim nos Sistem
     <td valign="left"><a href="https://github.com/fermyno/mainframe/tree/main/JCL/src/CPDSK2TP.txt">CPDSK2TP:</a></td>
     <td valign="left">JCL para gravar dados em Tape Drive usando o IEBGENER.</td>
   </tr>   
+  <tr>
+    <td valign="left"><a href="https://github.com/fermyno/mainframe/tree/main/JCL/src/CPTP2DSK.txt">CPTP2DSK:</a></td>
+    <td valign="left">JCL que copia o membro de um data set de uma fita magnética (Tape Drive) para um data set particionado usando o IEBCOPY.</td>
+  </tr>   
   
   
 </table>
