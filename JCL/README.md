@@ -17,7 +17,7 @@ Todos os programas contidos neste repositório foram testados por mim nos Sistem
   </tr>
   <tr>
     <td valign="left"><a href="https://github.com/fermyno/mainframe/tree/main/JCL/src/NEWPDS2.txt">NEWPDS2:</a></td>
-    <td valign="left">JCL para criar dois data sets do tipo PDS com IEFBR14.</td>
+    <td valign="left">JCL para criar dois data sets do tipo PDS com <strong>IEFBR14</strong>.</td>
   </tr>
   <tr>
     <td valign="left"><a href="https://github.com/fermyno/mainframe/tree/main/JCL/src/NEWPS1.txt">NEWPS1:</a></td>
