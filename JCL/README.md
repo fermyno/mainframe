@@ -33,7 +33,7 @@ Todos os programas contidos neste repositório foram testados por mim nos Sistem
   </tr>
   <tr>
     <td valign="left"><a href="https://github.com/fermyno/mainframe/tree/main/JCL/src/NEWPDSM1.txt">NEWPDSM1:</a></td>
-    <td valign="left">JCL para criar membro em data sets do tipo PDS utilizando IEBGENER.</td>
+    <td valign="left">JCL para criar membro em data sets do tipo PDS utilizando <strong>IEBGENER</strong>.</td>
   </tr>
   <tr>
     <td valign="left"><a href="https://github.com/fermyno/mainframe/tree/main/JCL/src/NEWPDSM2.txt">NEWPDSM2:</a></td>
