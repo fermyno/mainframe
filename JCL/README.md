@@ -29,7 +29,7 @@ Todos os programas contidos neste repositório foram testados por mim nos Sistem
   </tr>
   <tr>
     <td valign="left"><a href="https://github.com/fermyno/mainframe/tree/main/JCL/src/NEWPSWDT.txt">NEWPSWDT:</a></td>
-    <td valign="left">JCL para criar um data set do tipo PS e inserir dados no mesmo usando o ICEGENER.</td>
+    <td valign="left">JCL para criar um data set do tipo PS e inserir dados no mesmo usando o <strong>ICEGENER</strong>.</td>
   </tr>
   <tr>
     <td valign="left"><a href="https://github.com/fermyno/mainframe/tree/main/JCL/src/NEWPDSM1.txt">NEWPDSM1:</a></td>
