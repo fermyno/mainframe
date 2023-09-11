@@ -53,19 +53,19 @@ Todos os programas contidos neste repositório foram testados por mim nos Sistem
   </tr>
   <tr>
     <td valign="left"><a href="https://github.com/fermyno/mainframe/tree/main/JCL/src/DELPDS2.txt">DELPDS2:</a></td>
-    <td valign="left">JCL para excluir mais de um data set do tipo PDS (particionado) com IEFBR14.</td>
+    <td valign="left">JCL para excluir mais de um data set do tipo PDS (particionado) com <strong>IEFBR14</strong>.</td>
   </tr>
   <tr>
     <td valign="left"><a href="https://github.com/fermyno/mainframe/tree/main/JCL/src/DELPDSM1.txt">DELPDSM1:</a></td>
-    <td valign="left">JCL para excluir um membro de um data set do tipo PDS (particionado) usando IDCAMS.</td>
+    <td valign="left">JCL para excluir um membro de um data set do tipo PDS (particionado) usando <strong>IDCAMS</strong>.</td>
   </tr>
   <tr>
     <td valign="left"><a href="https://github.com/fermyno/mainframe/tree/main/JCL/src/DELPDSM2.txt">DELPDSM2:</a></td>
-    <td valign="left">JCL para excluir mais de um membro de um data set do tipo PDS (particionado) usando IDCAMS.</td>
+    <td valign="left">JCL para excluir mais de um membro de um data set do tipo PDS (particionado) usando <strong>IDCAMS</strong>.</td>
   </tr>
   <tr>
     <td valign="left"><a href="https://github.com/fermyno/mainframe/tree/main/JCL/src/DELPDSE1.txt">DELPDSE1:</a></td>
-    <td valign="left">JCL para excluir um data set do tipo PDSE (particionado extendido) com IEFBR14.</td>
+    <td valign="left">JCL para excluir um data set do tipo PDSE (particionado extendido) com <strong>IEFBR14</strong>.</td>
   </tr>
   <tr>
     <td valign="left"><a href="https://github.com/fermyno/mainframe/tree/main/JCL/src/NEWPDSE1.txt">NEWPDSE1:</a></td>
