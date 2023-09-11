@@ -37,19 +37,19 @@ Todos os programas contidos neste repositório foram testados por mim nos Sistem
   </tr>
   <tr>
     <td valign="left"><a href="https://github.com/fermyno/mainframe/tree/main/JCL/src/NEWPDSM2.txt">NEWPDSM2:</a></td>
-    <td valign="left">JCL para criar mais de um membro em data sets do tipo PDS utilizando IEBGENER.</td>
+    <td valign="left">JCL para criar mais de um membro em data sets do tipo PDS utilizando <strong>IEBGENER</strong>.</td>
   </tr>
   <tr>
     <td valign="left"><a href="https://github.com/fermyno/mainframe/tree/main/JCL/src/DELPS1.txt">DELPS1:</a></td>
-    <td valign="left">JCL para excluir um data set do tipo PS (sequencial) com IEFBR14.</td>
+    <td valign="left">JCL para excluir um data set do tipo PS (sequencial) com <strong>IEFBR14</strong>.</td>
   </tr>
   <tr>
     <td valign="left"><a href="https://github.com/fermyno/mainframe/tree/main/JCL/src/DELPS2.txt">DELPS2:</a></td>
-    <td valign="left">JCL para excluir mais de um data set do tipo PS (sequencial) com IEFBR14.</td>
+    <td valign="left">JCL para excluir mais de um data set do tipo PS (sequencial) com <strong>IEFBR14</strong>.</td>
   </tr>
   <tr>
     <td valign="left"><a href="https://github.com/fermyno/mainframe/tree/main/JCL/src/DELPDS1.txt">DELPDS1:</a></td>
-    <td valign="left">JCL para excluir um data set do tipo PDS (particionado) com IEFBR14.</td>
+    <td valign="left">JCL para excluir um data set do tipo PDS (particionado) com <strong>IEFBR14</strong>.</td>
   </tr>
   <tr>
     <td valign="left"><a href="https://github.com/fermyno/mainframe/tree/main/JCL/src/DELPDS2.txt">DELPDS2:</a></td>
