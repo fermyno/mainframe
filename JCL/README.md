@@ -69,31 +69,31 @@ Todos os programas contidos neste repositório foram testados por mim nos Sistem
   </tr>
   <tr>
     <td valign="left"><a href="https://github.com/fermyno/mainframe/tree/main/JCL/src/NEWPDSE1.txt">NEWPDSE1:</a></td>
-    <td valign="left">JCL para criar um data set do tipo PDSE (particionado extendido) e um membro dentro do data set usando ICEGENER.</td>
+    <td valign="left">JCL para criar um data set do tipo PDSE (particionado extendido) e um membro dentro do data set usando <strong>ICEGENER</strong>.</td>
   </tr>
   <tr>
     <td valign="left"><a href="https://github.com/fermyno/mainframe/tree/main/JCL/src/NEWPDSE2.txt">NEWPDSE2:</a></td>
-    <td valign="left">JCL para criar um data set do tipo PDSE (particionado extendido) usando IDCAMS.</td>
+    <td valign="left">JCL para criar um data set do tipo PDSE (particionado extendido) usando <strong>IDCAMS</strong>.</td>
   </tr>
   <tr>
     <td valign="left"><a href="https://github.com/fermyno/mainframe/tree/main/JCL/src/PDS2PDSE.txt">PDS2PDSE:</a></td>
-    <td valign="left">JCL para copiar membros de um data set do tipo PDS para data set do tipo PDSE (particionado extendido) usando IEBCOPY.</td>
+    <td valign="left">JCL para copiar membros de um data set do tipo PDS para data set do tipo PDSE (particionado extendido) usando <strong>IEBCOPY</strong>.</td>
   </tr>
   <tr>
     <td valign="left"><a href="https://github.com/fermyno/mainframe/tree/main/JCL/src/PDSELIST.txt">PDSELIST:</a></td>
-    <td valign="left">JCL para listar todos os membros de um data set do tipo PDS na SYSOUT usando IEBPTPCH.</td>
+    <td valign="left">JCL para listar todos os membros de um data set do tipo PDS na SYSOUT usando <strong>IEBPTPCH</strong>.</td>
   </tr>
   <tr>
     <td valign="left"><a href="https://github.com/fermyno/mainframe/tree/main/JCL/src/COPYPS1.txt">COPYPS1:</a></td>
-    <td valign="left">JCL para realizar a cópia de um data set PS (sequencial) usando SORT.</td>
+    <td valign="left">JCL para realizar a cópia de um data set PS (sequencial) usando <strong>SORT</strong>.</td>
   </tr>
   <tr>
     <td valign="left"><a href="https://github.com/fermyno/mainframe/tree/main/JCL/src/CP10FSTR.txt">CP10FSTR:</a></td>
-    <td valign="left">JCL para realizar a cópia dos 10 primeiros registros de um data set PS (sequencial) usando ICETOOL.</td>
+    <td valign="left">JCL para realizar a cópia dos 10 primeiros registros de um data set PS (sequencial) usando <strong>ICETOOL</strong>.</td>
   </tr>
   <tr>
     <td valign="left"><a href="https://github.com/fermyno/mainframe/tree/main/JCL/src/CP50RECS.txt">CP50RECS:</a></td>
-    <td valign="left">JCL para realizar a cópia dos 50 primeiros registros de um data set PS (sequencial) usando SORT.</td>
+    <td valign="left">JCL para realizar a cópia dos 50 primeiros registros de um data set PS (sequencial) usando <strong>SORT</strong>.</td>
   </tr>
   <tr>
     <td valign="left"><a href="https://github.com/fermyno/mainframe/tree/main/JCL/src/CPYMPDS1.txt">CPYMPDS1:</a></td>
