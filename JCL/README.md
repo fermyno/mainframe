@@ -97,23 +97,23 @@ Todos os programas contidos neste repositório foram testados por mim nos Sistem
   </tr>
   <tr>
     <td valign="left"><a href="https://github.com/fermyno/mainframe/tree/main/JCL/src/CPYMPDS1.txt">CPYMPDS1:</a></td>
-    <td valign="left">JCL para realizar a cópia e renomear membro de um data set do tipo PDS (particionado) usando IEBCOPY.</td>
+    <td valign="left">JCL para realizar a cópia e renomear membro de um data set do tipo PDS (particionado) usando <strong>IEBCOPY</strong>.</td>
   </tr>
   <tr>
     <td valign="left"><a href="https://github.com/fermyno/mainframe/tree/main/JCL/src/CPYMPDS2.txt">CPYMPDS2:</a></td>
-    <td valign="left">JCL para realizar a cópia de todos os membros de um data set do tipo PDS para outro data set PDS usando IEBCOPY.</td>
+    <td valign="left">JCL para realizar a cópia de todos os membros de um data set do tipo PDS para outro data set PDS usando <strong>IEBCOPY</strong>.</td>
   </tr>
   <tr>
     <td valign="left"><a href="https://github.com/fermyno/mainframe/tree/main/JCL/src/CPYMPDS3.txt">CPYMPDS3:</a></td>
-    <td valign="left">JCL para realizar a cópia de membros específicos de um data set do tipo PDS para outro data set PDS usando IEBCOPY.</td>
+    <td valign="left">JCL para realizar a cópia de membros específicos de um data set do tipo PDS para outro data set PDS usando <strong>IEBCOPY</strong>.</td>
   </tr>
   <tr>
     <td valign="left"><a href="https://github.com/fermyno/mainframe/tree/main/JCL/src/CPYMPDS4.txt">CPYMPDS4:</a></td>
-    <td valign="left">JCL para realizar a cópia de membros específicos de dois data sets do tipo PDS para um data set PDS usando IEBCOPY.</td>
+    <td valign="left">JCL para realizar a cópia de membros específicos de dois data sets do tipo PDS para um data set PDS usando <strong>IEBCOPY</strong>.</td>
   </tr>
   <tr>
     <td valign="left"><a href="https://github.com/fermyno/mainframe/tree/main/JCL/src/CPYMPDS5.txt">CPYMPDS5:</a></td>
-    <td valign="left">JCL para omitir/excluir membros específicos durante a cópia de data sets do tipo PDS usando IEBCOPY.</td>
+    <td valign="left">JCL para omitir/excluir membros específicos durante a cópia de data sets do tipo PDS usando <strong>IEBCOPY</strong>.</td>
   </tr>
   <tr>
     <td valign="left"><a href="https://github.com/fermyno/mainframe/tree/main/JCL/src/CPYPSBKP.txt">CPYPSBKP:</a></td>
