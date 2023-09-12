@@ -141,31 +141,31 @@ Todos os programas contidos neste repositório foram testados por mim nos Sistem
   </tr>  
   <tr>
     <td valign="left"><a href="https://github.com/fermyno/mainframe/tree/main/JCL/src/FB2VB391.txt">FB2VB391:</a></td>
-    <td valign="left">JCL para converter um data set do tipo FB (fixo-blocado) para um data set tipo VB (largura de colunas variáveis) usando IEBGENER.</td>
+    <td valign="left">JCL para converter um data set do tipo FB (fixo-blocado) para um data set tipo VB (largura de colunas variáveis) usando <strong>IEBGENER</strong>.</td>
   </tr>  
   <tr>
     <td valign="left"><a href="https://github.com/fermyno/mainframe/tree/main/JCL/src/FB2VBZOS.txt">FB2VBZOS:</a></td>
-    <td valign="left">JCL para converter um data set do tipo FB (fixo-blocado) para um data set tipo VB (largura de colunas variáveis) usando SORT no z/OS (não funciona no OS/390).</td>
+    <td valign="left">JCL para converter um data set do tipo FB (fixo-blocado) para um data set tipo VB (largura de colunas variáveis) usando <strong>SORT</strong> no z/OS (não funciona no OS/390).</td>
   </tr>
   <tr>
     <td valign="left"><a href="https://github.com/fermyno/mainframe/tree/main/JCL/src/VB2FB390.txt">VB2FB390:</a></td>
-    <td valign="left">JCL para converter um data set do tipo VB (largura de colunas variáveis) para um data set tipo FB (fixo-blocado) usando IDCAMS.  Testado no OS/390</td>
+    <td valign="left">JCL para converter um data set do tipo VB (largura de colunas variáveis) para um data set tipo FB (fixo-blocado) usando <strong>IDCAMS</strong>. Testado no OS/390</td>
   </tr> 
   <tr>
     <td valign="left"><a href="https://github.com/fermyno/mainframe/tree/main/JCL/src/VB2FB391.txt">VB2FB391:</a></td>
-    <td valign="left">JCL para converter um data set do tipo VB (largura de colunas variáveis) para um data set tipo FB (fixo-blocado) usando IEBGENER. Testado no OS/390</td>
+    <td valign="left">JCL para converter um data set do tipo VB (largura de colunas variáveis) para um data set tipo FB (fixo-blocado) usando <strong>IEBGENER</strong>. Testado no OS/390</td>
   </tr> 
   <tr>
     <td valign="left"><a href="https://github.com/fermyno/mainframe/tree/main/JCL/src/VB2FB391.txt">VB2FB391:</a></td>
-    <td valign="left">JCL para converter um data set do tipo VB (largura de colunas variáveis) para um data set tipo FB (fixo-blocado) usando SORT. Testado no z/OS.</td>
+    <td valign="left">JCL para converter um data set do tipo VB (largura de colunas variáveis) para um data set tipo FB (fixo-blocado) usando <strong>SORT</strong>. Testado no z/OS.</td>
   </tr> 
   <tr>
     <td valign="left"><a href="https://github.com/fermyno/mainframe/tree/main/JCL/src/LISTVTOV.txt">LISTVTOV:</a></td>
-    <td valign="left">JCL para listar o conteúdo de uma VTOC (Volume Table of Contents) usando IEHLIST. A VTOC é uma tabela que mapeia os endereços físicos dos datasets no volume e fornece informações importantes, como o nome do dataset, tamanho, tipo de registro, data de criação, entre outros detalhes. </td>
+    <td valign="left">JCL para listar o conteúdo de uma VTOC (Volume Table of Contents) usando <strong>IEHLIST</strong>. A VTOC é uma tabela que mapeia os endereços físicos dos datasets no volume e fornece informações importantes, como o nome do dataset, tamanho, tipo de registro, data de criação, entre outros detalhes. </td>
   </tr>  
   <tr>
     <td valign="left"><a href="https://github.com/fermyno/mainframe/tree/main/JCL/src/MERGEDT1.txt">MERGEDT1:</a></td>
-    <td valign="left">JCL para mesclar (MERGE) o conteúdo de dois data sets usando IEBCOPY. </td>
+    <td valign="left">JCL para mesclar (MERGE) o conteúdo de dois data sets usando <strong>IEBCOPY</strong>. </td>
   </tr>  
   <tr>
     <td valign="left"><a href="https://github.com/fermyno/mainframe/tree/main/JCL/src/PDSLIST1.txt">PDSLIST1:</a></td>
