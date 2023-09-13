@@ -189,35 +189,35 @@ Todos os programas contidos neste repositório foram testados por mim nos Sistem
   </tr> 
   <tr>
     <td valign="left"><a href="https://github.com/fermyno/mainframe/tree/main/JCL/src/SORTWCND.txt">SORTWCND:</a></td>
-    <td valign="left">JCL que copia um data set de acordo com certos critérios (omite a cópia de campos numéricos) usando o SORT.</td>
+    <td valign="left">JCL que copia um data set de acordo com certos critérios (omite a cópia de campos numéricos) usando o <strong>SORT</strong>.</td>
   </tr> 
   <tr>
     <td valign="left"><a href="https://github.com/fermyno/mainframe/tree/main/JCL/src/SRT1DSET.txt">SRT1DSET:</a></td>
-    <td valign="left">JCL que ordena um data set por um campo Float usando o SORT.</td>
+    <td valign="left">JCL que ordena um data set por um campo Float usando o <strong>SORT</strong>.</td>
   </tr> 
   <tr>
     <td valign="left"><a href="https://github.com/fermyno/mainframe/tree/main/JCL/src/SRTDTPGT.txt">SRTDTPGT:</a></td>
-    <td valign="left">JCL que ordena um data set por data de pagamento (CH,A) usando o SORT.</td>
+    <td valign="left">JCL que ordena um data set por data de pagamento (CH,A) usando o <strong>SORT</strong>.</td>
   </tr> 
   <tr>
     <td valign="left"><a href="https://github.com/fermyno/mainframe/tree/main/JCL/src/SRT2FLDS.txt">SRT2FLDS:</a></td>
-    <td valign="left">JCL que ordena um data set por múltiplos campos usando o SORT.</td>
+    <td valign="left">JCL que ordena um data set por múltiplos campos usando o <strong>SORT</strong>.</td>
   </tr> 
   <tr>
     <td valign="left"><a href="https://github.com/fermyno/mainframe/tree/main/JCL/src/SRT2FRMT.txt">SRT2FRMT:</a></td>
-    <td valign="left">JCL que ordena um data set por múltiplos campos usando o SORT FORMAT.</td>
+    <td valign="left">JCL que ordena um data set por múltiplos campos usando o <strong>SORT FORMAT</strong>.</td>
   </tr> 
   <tr>
     <td valign="left"><a href="https://github.com/fermyno/mainframe/tree/main/JCL/src/SORTFIC1.txt">SORTFIC1:</a></td>
-    <td valign="left">JCL que ordena um data set com condição de inclusão (INCLUDE COND) usando o SORT.</td>
+    <td valign="left">JCL que ordena um data set com condição de inclusão (INCLUDE COND) usando o <strong>SORT</strong>.</td>
   </tr> 
   <tr>
     <td valign="left"><a href="https://github.com/fermyno/mainframe/tree/main/JCL/src/SORTOCD1.txt">SORTOCD1:</a></td>
-    <td valign="left">JCL que ordena um data set com condição de inclusão (INCLUDE COND) usando o SORT.</td>
+    <td valign="left">JCL que ordena um data set com condição de inclusão (INCLUDE COND) usando o <strong>SORT</strong>.</td>
   </tr> 
   <tr>
     <td valign="left"><a href="https://github.com/fermyno/mainframe/tree/main/JCL/src/SORTIMC1.txt">SORTIMC1:</a></td>
-    <td valign="left">JCL que ordena um data set com condição de omissão (INCLUDE COND) usando o SORT.</td>
+    <td valign="left">JCL que ordena um data set com condição de omissão (INCLUDE COND) usando o <strong>SORT</strong>.</td>
   </tr>   
   <tr>
     <td valign="left"><a href="https://github.com/fermyno/mainframe/tree/main/JCL/src/SORTORF1.txt">SORTORF1:</a></td>
