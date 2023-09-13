@@ -169,23 +169,23 @@ Todos os programas contidos neste repositório foram testados por mim nos Sistem
   </tr>  
   <tr>
     <td valign="left"><a href="https://github.com/fermyno/mainframe/tree/main/JCL/src/PDSLIST1.txt">PDSLIST1:</a></td>
-    <td valign="left">JCL para listar as informações de um data set do tipo PDS (particionado) na SYSOUT usando IEHLIST. </td>
+    <td valign="left">JCL para listar as informações de um data set do tipo PDS (particionado) na SYSOUT usando <strong>IEHLIST</strong>. </td>
   </tr>  
   <tr>
     <td valign="left"><a href="https://github.com/fermyno/mainframe/tree/main/JCL/src/SCRTCHPS.txt">SCRTCHPS:</a></td>
-    <td valign="left">JCL para apagar um conjunto de dados. Este JCL usa o IEHPROGM e pode ser útil para realizar outras ações relacionadas a conjuntos de dados, além da exclusão.</td>
+    <td valign="left">JCL para apagar um conjunto de dados. Este JCL usa o <strong>IEHPROGM</strong> e pode ser útil para realizar outras ações relacionadas a conjuntos de dados, além da exclusão.</td>
   </tr> 
   <tr>
     <td valign="left"><a href="https://github.com/fermyno/mainframe/tree/main/JCL/src/SPLITDS1.txt">SPLITDS1:</a></td>
-    <td valign="left">JCL que lê um data set sequencial e separa o seu conteúdo em três novos data sets de acordo com critérios estabelecidos usando o SORT.</td>
+    <td valign="left">JCL que lê um data set sequencial e separa o seu conteúdo em três novos data sets de acordo com critérios estabelecidos usando o <strong>SORT</strong>.</td>
   </tr>   
   <tr>
     <td valign="left"><a href="https://github.com/fermyno/mainframe/tree/main/JCL/src/SPLITDS2.txt">SPLITDS2:</a></td>
-    <td valign="left">JCL que lê um data set sequencial e divide o seu conteúdo em dois novos data sets usando o SORT.</td>
+    <td valign="left">JCL que lê um data set sequencial e divide o seu conteúdo em dois novos data sets usando o <strong>SORT</strong>.</td>
   </tr>   
   <tr>
     <td valign="left"><a href="https://github.com/fermyno/mainframe/tree/main/JCL/src/SORTCP01.txt">SORTCP01:</a></td>
-    <td valign="left">JCL que lê um data set e copia o conteúdo em três outros data sets usando o SORT.</td>
+    <td valign="left">JCL que lê um data set e copia o conteúdo em três outros data sets usando o <strong>SORT</strong>.</td>
   </tr> 
   <tr>
     <td valign="left"><a href="https://github.com/fermyno/mainframe/tree/main/JCL/src/SORTWCND.txt">SORTWCND:</a></td>
