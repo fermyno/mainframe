@@ -221,35 +221,35 @@ Todos os programas contidos neste repositório foram testados por mim nos Sistem
   </tr>   
   <tr>
     <td valign="left"><a href="https://github.com/fermyno/mainframe/tree/main/JCL/src/SORTORF1.txt">SORTORF1:</a></td>
-    <td valign="left">JCL que ordena um data set e grava OUTREC em colunas específicas usando o SORT.</td>
+    <td valign="left">JCL que ordena um data set e grava OUTREC em colunas específicas usando o <strong>SORT</strong>.</td>
   </tr>   
   <tr>
     <td valign="left"><a href="https://github.com/fermyno/mainframe/tree/main/JCL/src/SORTST01.txt">SORTST01:</a></td>
-    <td valign="left">JCL que ordena um data set e mostra na SYSOUT apenas os registros únicos (sem os registros duplicados) usando o SORT.</td>
+    <td valign="left">JCL que ordena um data set e mostra na SYSOUT apenas os registros únicos (sem os registros duplicados) usando o <strong>SORT</strong>.</td>
   </tr>   
   <tr>
     <td valign="left"><a href="https://github.com/fermyno/mainframe/tree/main/JCL/src/SORTWIF1.txt">SORTWIF1:</a></td>
-    <td valign="left">JCL que reformata o layout de saída de acordo com determinadas condições (IF), usando o SORT.</td>
+    <td valign="left">JCL que reformata o layout de saída de acordo com determinadas condições (IF), usando o <strong>SORT</strong>.</td>
   </tr>   
   <tr>
     <td valign="left"><a href="https://github.com/fermyno/mainframe/tree/main/JCL/src/NEWKSDS1.txt">NEWKSDS1:</a></td>
-    <td valign="left">JCL para criar um data set VSAM do tipo KSDS (Key-Sequenced Data Set) usando o IDCAMS.</td>
+    <td valign="left">JCL para criar um data set VSAM do tipo KSDS (Key-Sequenced Data Set) usando o <strong>IDCAMS</strong>.</td>
   </tr>  
   <tr>
     <td valign="left"><a href="https://github.com/fermyno/mainframe/tree/main/JCL/src/NEWKSDS2.txt">NEWKSDS2:</a></td>
-    <td valign="left">JCL para criar um data set VSAM do tipo KSDS (Key-Sequenced Data Set) usando o IDCAMS. Caso o data set já exista, exclui e cria novo data set.</td>
+    <td valign="left">JCL para criar um data set VSAM do tipo KSDS (Key-Sequenced Data Set) usando o <strong>IDCAMS</strong>. Caso o data set já exista, exclui e cria novo data set.</td>
   </tr>  
   <tr>
     <td valign="left"><a href="https://github.com/fermyno/mainframe/tree/main/JCL/src/NEWESDS1.txt">NEWESDS1:</a></td>
-    <td valign="left">JCL para criar um data set VSAM do tipo ESDS (Entry-Sequenced Data Set) usando o IDCAMS.</td>
+    <td valign="left">JCL para criar um data set VSAM do tipo ESDS (Entry-Sequenced Data Set) usando o <strong>IDCAMS</strong>.</td>
   </tr>  
   <tr>
     <td valign="left"><a href="https://github.com/fermyno/mainframe/tree/main/JCL/src/NEWLDS01.txt">NEWLDS01:</a></td>
-    <td valign="left">JCL para criar um data set VSAM do tipo LDS (Linear Data Set) usando o IDCAMS.</td>
+    <td valign="left">JCL para criar um data set VSAM do tipo LDS (Linear Data Set) usando o <strong>IDCAMS</strong>.</td>
   </tr>  
   <tr>
     <td valign="left"><a href="https://github.com/fermyno/mainframe/tree/main/JCL/src/NEWRRDS1.txt">NEWRRDS1:</a></td>
-    <td valign="left">JCL para criar um data set VSAM do tipo RRDS (Relative Record Data Set) usando o IDCAMS.</td>
+    <td valign="left">JCL para criar um data set VSAM do tipo RRDS (Relative Record Data Set) usando o <strong>IDCAMS</strong>.</td>
   </tr>  
   <tr>
     <td valign="left"><a href="https://github.com/fermyno/mainframe/tree/main/JCL/src/DELVSAM1.txt">DELVSAM1:</a></td>
