@@ -240,31 +240,31 @@ Todos os programas contidos neste repositório foram testados por mim nos Sistem
     <td valign="left">JCL para criar um data set VSAM do tipo KSDS (Key-Sequenced Data Set) usando o <strong>IDCAMS</strong>. Caso o data set já exista, exclui e cria novo data set.</td>
   </tr>  
   <tr>
-    <td valign="left"><a href="https://github.com/fermyno/mainframe/tree/main/JCL/src/NEWESDS1.txt">NEWESDS1:</a></td>
+    <td valign="left"><a href="https://github.com/fermyno/mainframe/tree/main/JCL/src/NEWESDS1.txt"><strong>NEWESDS1</strong>:</a></td>
     <td valign="left">JCL para criar um data set VSAM do tipo ESDS (Entry-Sequenced Data Set) usando o <strong>IDCAMS</strong>.</td>
   </tr>  
   <tr>
-    <td valign="left"><a href="https://github.com/fermyno/mainframe/tree/main/JCL/src/NEWLDS01.txt">NEWLDS01:</a></td>
+    <td valign="left"><a href="https://github.com/fermyno/mainframe/tree/main/JCL/src/NEWLDS01.txt"><strong>NEWLDS01</strong>:</a></td>
     <td valign="left">JCL para criar um data set VSAM do tipo LDS (Linear Data Set) usando o <strong>IDCAMS</strong>.</td>
   </tr>  
   <tr>
-    <td valign="left"><a href="https://github.com/fermyno/mainframe/tree/main/JCL/src/NEWRRDS1.txt">NEWRRDS1:</a></td>
+    <td valign="left"><a href="https://github.com/fermyno/mainframe/tree/main/JCL/src/NEWRRDS1.txt"><strong>NEWRRDS1</strong>:</a></td>
     <td valign="left">JCL para criar um data set VSAM do tipo RRDS (Relative Record Data Set) usando o <strong>IDCAMS</strong>.</td>
   </tr>  
   <tr>
-    <td valign="left"><a href="https://github.com/fermyno/mainframe/tree/main/JCL/src/DELVSAM1.txt">DELVSAM1:</a></td>
+    <td valign="left"><a href="https://github.com/fermyno/mainframe/tree/main/JCL/src/DELVSAM1.txt"><strong>DELVSAM1</strong>:</a></td>
     <td valign="left">JCL para excluir um data set VSAM usando o <strong>IDCAMS</strong>.</td>
   </tr>  
   <tr>
-    <td valign="left"><a href="https://github.com/fermyno/mainframe/tree/main/JCL/src/COPYVSAM.txt">COPYVSAM:</a></td>
+    <td valign="left"><a href="https://github.com/fermyno/mainframe/tree/main/JCL/src/COPYVSAM.txt"><strong>COPYVSAM</strong>:</a></td>
     <td valign="left">JCL para copiar um data set VSAM usando o <strong>IDCAMS</strong>.</td>
   </tr>   
   <tr>
-    <td valign="left"><a href="https://github.com/fermyno/mainframe/tree/main/JCL/src/VSAMINFO.txt">VSAMINFO:</a></td>
+    <td valign="left"><a href="https://github.com/fermyno/mainframe/tree/main/JCL/src/VSAMINFO.txt"><strong>VSAMINFO</strong>:</a></td>
     <td valign="left">JCL para listar as informações de um data set VSAM usando o <strong>IDCAMS</strong>, mostrando os dados na SYSOUT.</td>
   </tr>   
   <tr>
-    <td valign="left"><a href="https://github.com/fermyno/mainframe/tree/main/JCL/src/CPDSK2TP.txt">CPDSK2TP:</a></td>
+    <td valign="left"><a href="https://github.com/fermyno/mainframe/tree/main/JCL/src/CPDSK2TP.txt"><strong>CPDSK2TP</strong>:</a></td>
     <td valign="left">JCL para gravar dados em Tape Drive usando o <strong>IEBGENER</strong>.</td>
   </tr>   
   <tr>
