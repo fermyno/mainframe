@@ -212,31 +212,31 @@ Todos os programas contidos neste repositório foram testados por mim nos Sistem
     <td valign="left">JCL que ordena um data set com condição de inclusão (INCLUDE COND) usando o <strong>SORT</strong>.</td>
   </tr> 
   <tr>
-    <td valign="left"><a href="https://github.com/fermyno/mainframe/tree/main/JCL/src/SORTOCD1.txt">SORTOCD1:</a></td>
+    <td valign="left"><a href="https://github.com/fermyno/mainframe/tree/main/JCL/src/SORTOCD1.txt"><strong>SORTOCD1</strong>:</a></td>
     <td valign="left">JCL que ordena um data set com condição de inclusão (INCLUDE COND) usando o <strong>SORT</strong>.</td>
   </tr> 
   <tr>
-    <td valign="left"><a href="https://github.com/fermyno/mainframe/tree/main/JCL/src/SORTIMC1.txt">SORTIMC1:</a></td>
+    <td valign="left"><a href="https://github.com/fermyno/mainframe/tree/main/JCL/src/SORTIMC1.txt"><strong>SORTIMC1</strong>:</a></td>
     <td valign="left">JCL que ordena um data set com condição de omissão (INCLUDE COND) usando o <strong>SORT</strong>.</td>
   </tr>   
   <tr>
-    <td valign="left"><a href="https://github.com/fermyno/mainframe/tree/main/JCL/src/SORTORF1.txt">SORTORF1:</a></td>
+    <td valign="left"><a href="https://github.com/fermyno/mainframe/tree/main/JCL/src/SORTORF1.txt"><strong>SORTORF1</strong>:</a></td>
     <td valign="left">JCL que ordena um data set e grava OUTREC em colunas específicas usando o <strong>SORT</strong>.</td>
   </tr>   
   <tr>
-    <td valign="left"><a href="https://github.com/fermyno/mainframe/tree/main/JCL/src/SORTST01.txt">SORTST01:</a></td>
+    <td valign="left"><a href="https://github.com/fermyno/mainframe/tree/main/JCL/src/SORTST01.txt"><strong>SORTST01</strong>:</a></td>
     <td valign="left">JCL que ordena um data set e mostra na SYSOUT apenas os registros únicos (sem os registros duplicados) usando o <strong>SORT</strong>.</td>
   </tr>   
   <tr>
-    <td valign="left"><a href="https://github.com/fermyno/mainframe/tree/main/JCL/src/SORTWIF1.txt">SORTWIF1:</a></td>
+    <td valign="left"><a href="https://github.com/fermyno/mainframe/tree/main/JCL/src/SORTWIF1.txt"><strong>SORTWIF1</strong>:</a></td>
     <td valign="left">JCL que reformata o layout de saída de acordo com determinadas condições (IF), usando o <strong>SORT</strong>.</td>
   </tr>   
   <tr>
-    <td valign="left"><a href="https://github.com/fermyno/mainframe/tree/main/JCL/src/NEWKSDS1.txt">NEWKSDS1:</a></td>
+    <td valign="left"><a href="https://github.com/fermyno/mainframe/tree/main/JCL/src/NEWKSDS1.txt"><strong>NEWKSDS1</strong>:</a></td>
     <td valign="left">JCL para criar um data set VSAM do tipo KSDS (Key-Sequenced Data Set) usando o <strong>IDCAMS</strong>.</td>
   </tr>  
   <tr>
-    <td valign="left"><a href="https://github.com/fermyno/mainframe/tree/main/JCL/src/NEWKSDS2.txt">NEWKSDS2:</a></td>
+    <td valign="left"><a href="https://github.com/fermyno/mainframe/tree/main/JCL/src/NEWKSDS2.txt"><strong>NEWKSDS2</strong>:</a></td>
     <td valign="left">JCL para criar um data set VSAM do tipo KSDS (Key-Sequenced Data Set) usando o <strong>IDCAMS</strong>. Caso o data set já exista, exclui e cria novo data set.</td>
   </tr>  
   <tr>
