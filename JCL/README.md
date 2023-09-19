@@ -116,31 +116,31 @@ Todos os programas contidos neste repositório foram testados por mim nos Sistem
     <td valign="left">JCL para omitir/excluir membros específicos durante a cópia de data sets do tipo PDS usando <strong>IEBCOPY</strong>.</td>
   </tr>
   <tr>
-    <td valign="left"><a href="https://github.com/fermyno/mainframe/tree/main/JCL/src/CPYPSBKP.txt">CPYPSBKP:</a></td>
+    <td valign="left"><a href="https://github.com/fermyno/mainframe/tree/main/JCL/src/CPYPSBKP.txt"><strong>CPYPSBKP</strong>:</a></td>
     <td valign="left">JCL para realizar o backup de um data set do tipo PDS usando <strong>IEBGENER</strong>.</td>
   </tr>
   <tr>
-    <td valign="left"><a href="https://github.com/fermyno/mainframe/tree/main/JCL/src/COMP2PDS.txt">COMP2PDS:</a></td>
+    <td valign="left"><a href="https://github.com/fermyno/mainframe/tree/main/JCL/src/COMP2PDS.txt"><strong>COMP2PDS</strong>:</a></td>
     <td valign="left">JCL para realizar a comparação dentre dois data sets do tipo PDS usando <strong>IEBCOMPR</strong>.</td>
   </tr>  
   <tr>
-    <td valign="left"><a href="https://github.com/fermyno/mainframe/tree/main/JCL/src/COMP2PS1.txt">COMP2PS1:</a></td>
+    <td valign="left"><a href="https://github.com/fermyno/mainframe/tree/main/JCL/src/COMP2PS1.txt"><strong>COMP2PS1</strong>:</a></td>
     <td valign="left">JCL para realizar a comparação dentre dois data sets do tipo PS (sequencial) usando <strong>IEBCOMPR</strong>.</td>
   </tr>    
   <tr>
-    <td valign="left"><a href="https://github.com/fermyno/mainframe/tree/main/JCL/src/CMPRSDS1.txt">CMPRSDS1:</a></td>
+    <td valign="left"><a href="https://github.com/fermyno/mainframe/tree/main/JCL/src/CMPRSDS1.txt"><strong>CMPRSDS1</strong>:</a></td>
     <td valign="left">JCL para comprimir um data set do tipo PDS usando <strong>IEBCOPY</strong>.</td>
   </tr>    
   <tr>
-    <td valign="left"><a href="https://github.com/fermyno/mainframe/tree/main/JCL/src/DEL2REC1.txt">DEL2REC1:</a></td>
+    <td valign="left"><a href="https://github.com/fermyno/mainframe/tree/main/JCL/src/DEL2REC1.txt"><strong>DEL2REC1</strong>:</a></td>
     <td valign="left">JCL para ordenar e remover registros duplicados de um data set do tipo PS usando <strong>SORT</strong>.</td>
   </tr>     
   <tr>
-    <td valign="left"><a href="https://github.com/fermyno/mainframe/tree/main/JCL/src/FB2VB390.txt">FB2VB390:</a></td>
+    <td valign="left"><a href="https://github.com/fermyno/mainframe/tree/main/JCL/src/FB2VB390.txt"><strong>FB2VB390</strong>:</a></td>
     <td valign="left">JCL para converter um data set do tipo FB (fixo-blocado) para um data set tipo VB (largura de colunas variáveis) usando <strong>IDCAMS</strong>.</td>
   </tr>  
   <tr>
-    <td valign="left"><a href="https://github.com/fermyno/mainframe/tree/main/JCL/src/FB2VB391.txt">FB2VB391:</a></td>
+    <td valign="left"><a href="https://github.com/fermyno/mainframe/tree/main/JCL/src/FB2VB391.txt"><strong>FB2VB391</strong>:</a></td>
     <td valign="left">JCL para converter um data set do tipo FB (fixo-blocado) para um data set tipo VB (largura de colunas variáveis) usando <strong>IEBGENER</strong>.</td>
   </tr>  
   <tr>
