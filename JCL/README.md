@@ -8,35 +8,35 @@ Todos os programas contidos neste repositório foram testados por mim nos Sistem
 
 <table border="0" cellspacing="2">
   <tr>
-    <td valign="left"><a href="https://github.com/fermyno/mainframe/tree/main/JCL/src/NEWUSER1.txt">NEWUSER1:</a></td>
-    <td valign="left">JCL para criar usuários administradores com acesso ao DB2, usando <strong>IKJEFT01, IDCAMS e IEFBR14</strong>.</td>
+    <td valign="left"><a href="https://github.com/fermyno/mainframe/tree/main/JCL/src/NEWUSER1.txt"><strong>NEWUSER1</strong>:</a></td>
+    <td valign="left">JCL para criar usuários administradores com acesso ao DB2, usando <strong>IKJEFT01</strong>, <strong>IDCAMS</strong> e <strong>IEFBR14</strong>.</td>
   </tr>
   <tr>
-    <td valign="left"><a href="https://github.com/fermyno/mainframe/tree/main/JCL/src/NEWPDS1.txt">NEWPDS1:</a></td>
+    <td valign="left"><a href="https://github.com/fermyno/mainframe/tree/main/JCL/src/NEWPDS1.txt"><strong>NEWPDS1</strong>:</a></td>
     <td valign="left">JCL para criar um data set do tipo PDS com <strong>IEFBR14</strong>.</td>
   </tr>
   <tr>
-    <td valign="left"><a href="https://github.com/fermyno/mainframe/tree/main/JCL/src/NEWPDS2.txt">NEWPDS2:</a></td>
+    <td valign="left"><a href="https://github.com/fermyno/mainframe/tree/main/JCL/src/NEWPDS2.txt"><strong>NEWPDS2</strong>:</a></td>
     <td valign="left">JCL para criar dois data sets do tipo PDS com <strong>IEFBR14</strong>.</td>
   </tr>
   <tr>
-    <td valign="left"><a href="https://github.com/fermyno/mainframe/tree/main/JCL/src/NEWPS1.txt">NEWPS1:</a></td>
+    <td valign="left"><a href="https://github.com/fermyno/mainframe/tree/main/JCL/src/NEWPS1.txt"><strong>NEWPS1</strong>:</a></td>
     <td valign="left">JCL para criar um data set do tipo PS com <strong>IEFBR14</strong>.</td>
   </tr>
   <tr>
-    <td valign="left"><a href="https://github.com/fermyno/mainframe/tree/main/JCL/src/NEWPS2.txt">NEWPS2:</a></td>
+    <td valign="left"><a href="https://github.com/fermyno/mainframe/tree/main/JCL/src/NEWPS2.txt"><strong>NEWPS2</strong>:</a></td>
     <td valign="left">JCL para criar dois ou mais data sets do tipo PS com <strong>IEFBR14</strong>.</td>
   </tr>
   <tr>
-    <td valign="left"><a href="https://github.com/fermyno/mainframe/tree/main/JCL/src/NEWPSWDT.txt">NEWPSWDT:</a></td>
+    <td valign="left"><a href="https://github.com/fermyno/mainframe/tree/main/JCL/src/NEWPSWDT.txt"><strong>NEWPSWDT</strong>:</a></td>
     <td valign="left">JCL para criar um data set do tipo PS e inserir dados no mesmo usando o <strong>ICEGENER</strong>.</td>
   </tr>
   <tr>
-    <td valign="left"><a href="https://github.com/fermyno/mainframe/tree/main/JCL/src/NEWPDSM1.txt">NEWPDSM1:</a></td>
+    <td valign="left"><a href="https://github.com/fermyno/mainframe/tree/main/JCL/src/NEWPDSM1.txt"><strong>NEWPDSM1</strong>:</a></td>
     <td valign="left">JCL para criar membro em data sets do tipo PDS utilizando <strong>IEBGENER</strong>.</td>
   </tr>
   <tr>
-    <td valign="left"><a href="https://github.com/fermyno/mainframe/tree/main/JCL/src/NEWPDSM2.txt">NEWPDSM2:</a></td>
+    <td valign="left"><a href="https://github.com/fermyno/mainframe/tree/main/JCL/src/NEWPDSM2.txt"><strong>NEWPDSM2</strong>:</a></td>
     <td valign="left">JCL para criar mais de um membro em data sets do tipo PDS utilizando <strong>IEBGENER</strong>.</td>
   </tr>
   <tr>
