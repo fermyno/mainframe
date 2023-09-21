@@ -40,27 +40,27 @@ Todos os programas contidos neste repositório foram testados por mim nos Sistem
     <td valign="left">JCL para criar mais de um membro em data sets do tipo PDS utilizando <strong>IEBGENER</strong>.</td>
   </tr>
   <tr>
-    <td valign="left"><a href="https://github.com/fermyno/mainframe/tree/main/JCL/src/DELPS1.txt">DELPS1:</a></td>
+    <td valign="left"><a href="https://github.com/fermyno/mainframe/tree/main/JCL/src/DELPS1.txt"><strong>DELPS1</strong>:</a></td>
     <td valign="left">JCL para excluir um data set do tipo PS (sequencial) com <strong>IEFBR14</strong>.</td>
   </tr>
   <tr>
-    <td valign="left"><a href="https://github.com/fermyno/mainframe/tree/main/JCL/src/DELPS2.txt">DELPS2:</a></td>
+    <td valign="left"><a href="https://github.com/fermyno/mainframe/tree/main/JCL/src/DELPS2.txt"><strong>DELPS2</strong>:</a></td>
     <td valign="left">JCL para excluir mais de um data set do tipo PS (sequencial) com <strong>IEFBR14</strong>.</td>
   </tr>
   <tr>
-    <td valign="left"><a href="https://github.com/fermyno/mainframe/tree/main/JCL/src/DELPDS1.txt">DELPDS1:</a></td>
+    <td valign="left"><a href="https://github.com/fermyno/mainframe/tree/main/JCL/src/DELPDS1.txt"><strong>DELPDS1</strong>:</a></td>
     <td valign="left">JCL para excluir um data set do tipo PDS (particionado) com <strong>IEFBR14</strong>.</td>
   </tr>
   <tr>
-    <td valign="left"><a href="https://github.com/fermyno/mainframe/tree/main/JCL/src/DELPDS2.txt">DELPDS2:</a></td>
+    <td valign="left"><a href="https://github.com/fermyno/mainframe/tree/main/JCL/src/DELPDS2.txt"><strong>DELPDS2</strong>:</a></td>
     <td valign="left">JCL para excluir mais de um data set do tipo PDS (particionado) com <strong>IEFBR14</strong>.</td>
   </tr>
   <tr>
-    <td valign="left"><a href="https://github.com/fermyno/mainframe/tree/main/JCL/src/DELPDSM1.txt">DELPDSM1:</a></td>
+    <td valign="left"><a href="https://github.com/fermyno/mainframe/tree/main/JCL/src/DELPDSM1.txt"><strong>DELPDSM1</strong>:</a></td>
     <td valign="left">JCL para excluir um membro de um data set do tipo PDS (particionado) usando <strong>IDCAMS</strong>.</td>
   </tr>
   <tr>
-    <td valign="left"><a href="https://github.com/fermyno/mainframe/tree/main/JCL/src/DELPDSM2.txt">DELPDSM2:</a></td>
+    <td valign="left"><a href="https://github.com/fermyno/mainframe/tree/main/JCL/src/DELPDSM2.txt"><strong>DELPDSM2</strong>:</a></td>
     <td valign="left">JCL para excluir mais de um membro de um data set do tipo PDS (particionado) usando <strong>IDCAMS</strong>.</td>
   </tr>
   <tr>
