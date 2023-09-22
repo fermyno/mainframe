@@ -274,5 +274,8 @@ Todos os programas contidos neste repositório foram testados por mim nos Sistem
 </table>
 
 <br />
-As utilities são ferramentas essenciais para os administradores e desenvolvedores de programanas em sistemas z/OS, permitindo a realização de tarefas administrativas de forma rápida e eficiente.
+<p>
+As utilities são ferramentas essenciais para os administradores e desenvolvedores de programas em sistemas z/OS, permitindo a realização de tarefas administrativas de forma rápida e eficiente.
+</p>
+
 
