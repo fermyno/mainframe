@@ -271,7 +271,7 @@ Todos os programas contidos neste repositório foram testados por mim nos Sistem
     <td valign="left"><a href="https://github.com/fermyno/mainframe/tree/main/JCL/src/CPTP2DSK.txt"><strong>CPTP2DSK</strong>:</a></td>
     <td valign="left">JCL que copia o membro de um data set de uma fita magnética (Tape Drive) para um data set particionado usando o <strong>IEBCOPY</strong>.</td>
   </tr>   
-  
-  
 </table>
+
+As utilities são ferramentas essenciais para os administradores e desenvolvedores de programanas em sistemas z/OS, permitindo a realização de tarefas administrativas de forma rápida e eficiente.
 
