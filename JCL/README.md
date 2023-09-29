@@ -280,17 +280,9 @@ As utilities são ferramentas essenciais para os administradores e desenvolvedor
 <p>Breve resumo das utilities mais usadas:</p>
 
 <ul>
-<li></li>
-<li></li>
-<li></li>
-<li></li>
-<li></li>
-<li></li>
-<li></li>
-<li></li>
-<li></li>
-<li></li>
-<li></li>
-<li></li>
+<li><strong></strong>: </li>
+<li><strong></strong>: </li>
+<li><strong></strong>: </li>
+<li><strong></strong>: </li>
   
 </ul>
