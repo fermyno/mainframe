@@ -286,7 +286,7 @@ As utilities são ferramentas essenciais para os administradores e desenvolvedor
 <li><strong>IEBCAT</strong>: </li>
 <li><strong>IEBCOPY</strong>: </li>
 <li><strong>IEBCOMPR</strong>: </li>
-<li><strong></strong>: </li>
+<li><strong>IEBPTPCH</strong>: </li>
 <li><strong></strong>: </li>
 <li><strong></strong>: </li>
 <li><strong></strong>: </li>
