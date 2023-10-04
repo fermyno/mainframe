@@ -289,8 +289,8 @@ As utilities são ferramentas essenciais para os administradores e desenvolvedor
 <li><strong>IEBPTPCH</strong>: </li>
 <li><strong>IEBUPDTE</strong>: </li>
 <li><strong>IKJEFT01</strong>: </li>
-<li><strong></strong>: </li>
-<li><strong></strong>: </li>
-<li><strong></strong>: </li>
-<li><strong></strong>: </li>
+<li><strong>IEHLIST</strong>: </li>
+<li><strong>IEHPROGM</strong>: </li>
+<li><strong>REPRO</strong>: </li>
+<li><strong>SORT</strong>: </li>
 </ul>
