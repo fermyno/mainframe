@@ -284,13 +284,13 @@ As utilities são ferramentas essenciais para os administradores e desenvolvedor
 <li><strong>ICETOOL</strong>: É uma ferramenta de manipulação de datasets que permite realizar várias operações, como ordenação, mesclagem e seleção de registros.</li>
 <li><strong>IEFBR14</strong>: É uma utility "nula" que não faz nada, mas é frequentemente usada para criar datasets vazios ou para fornecer um ponto de entrada para scripts.</li>
 <li><strong>IEBCAT</strong>: Copia informações de catálogo entre dois catálogos de datasets.</li>
-<li><strong>IEBCOPY</strong>: </li>
-<li><strong>IEBCOMPR</strong>: </li>
-<li><strong>IEBPTPCH</strong>: </li>
-<li><strong>IEBUPDTE</strong>: </li>
-<li><strong>IKJEFT01</strong>: </li>
-<li><strong>IEHLIST</strong>: </li>
-<li><strong>IEHPROGM</strong>: </li>
-<li><strong>REPRO</strong>: </li>
-<li><strong>SORT</strong>: </li>
+<li><strong>IEBCOPY</strong>: Copia datasets ou membros de um PDS (Partitioned Dataset).</li>
+<li><strong>IEBCOMPR</strong>: Compara dois datasets para verificar se são idênticos ou quais são as diferenças entre eles.</li>
+<li><strong>IEBPTPCH</strong>: Imprime ou perfura registros de um dataset em uma saída.</li>
+<li><strong>IEBUPDTE</strong>: Atualiza um dataset existente, adicionando, modificando ou excluindo registros.</li>
+<li><strong>IKJEFT01</strong>: É uma utilidade do TSO que permite a execução de comandos ou scripts em um ambiente batch.</li>
+<li><strong>IEHLIST</strong>: Gera listagens de dados ou datasets formatados para exibição.</li>
+<li><strong>IEHPROGM</strong>: Utility de criação de programas que ajuda na geração de programas COBOL.</li>
+<li><strong>REPRO</strong>: Copia um ou mais datasets de origem para um ou mais datasets de destino.</li>
+<li><strong>SORT</strong>: Ordena registros em um dataset com base em critérios específicos, também pode ser usado para mesclar datasets ordenados.</li>
 </ul>
