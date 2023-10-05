@@ -281,7 +281,7 @@ As utilities são ferramentas essenciais para os administradores e desenvolvedor
 
 <ul>
 <li><strong>ICEGENER</strong>: Gera registros de controle para processamento de dataset.</li>
-<li><strong>ICETOOL</strong>: </li>
+<li><strong>ICETOOL</strong>: É uma ferramenta de manipulação de datasets que permite realizar várias operações, como ordenação, mesclagem e seleção de registros.</li>
 <li><strong>IEFBR14</strong>: </li>
 <li><strong>IEBCAT</strong>: </li>
 <li><strong>IEBCOPY</strong>: </li>
