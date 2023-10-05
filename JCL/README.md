@@ -280,7 +280,7 @@ As utilities são ferramentas essenciais para os administradores e desenvolvedor
 <p>Breve resumo das utilities mais usadas:</p>
 
 <ul>
-<li><strong>ICEGENER</strong>: </li>
+<li><strong>ICEGENER</strong>: Gera registros de controle para processamento de dataset.</li>
 <li><strong>ICETOOL</strong>: </li>
 <li><strong>IEFBR14</strong>: </li>
 <li><strong>IEBCAT</strong>: </li>
