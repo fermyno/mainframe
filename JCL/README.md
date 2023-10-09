@@ -273,7 +273,7 @@ Todos os programas contidos neste repositório foram testados por mim nos Sistem
   </tr> 
   <tr>
     <td valign="left"><a href="https://github.com/fermyno/mainframe/tree/main/JCL/src/CLEARLOG.txt"><strong>CLEARLOG</strong>:</a></td>
-    <td valign="left">JCL que apaga o conteúdo do dataset de log SYS1.LOGREC no z/OS <strong>IFCDIP00</strong>.</td>
+    <td valign="left">JCL que apaga o conteúdo do dataset de log SYS1.LOGREC no z/OS usando o <strong>IFCDIP00</strong>.</td>
   </tr> 
   
 </table>
