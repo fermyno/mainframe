@@ -270,7 +270,12 @@ Todos os programas contidos neste repositório foram testados por mim nos Sistem
   <tr>
     <td valign="left"><a href="https://github.com/fermyno/mainframe/tree/main/JCL/src/CPTP2DSK.txt"><strong>CPTP2DSK</strong>:</a></td>
     <td valign="left">JCL que copia o membro de um data set de uma fita magnética (Tape Drive) para um data set particionado usando o <strong>IEBCOPY</strong>.</td>
-  </tr>   
+  </tr> 
+  <tr>
+    <td valign="left"><a href="https://github.com/fermyno/mainframe/tree/main/JCL/src/CLEARLOG.txt"><strong>CLEARLOG</strong>:</a></td>
+    <td valign="left">JCL que apaga o conteúdo do dataset de log SYS1.LOGREC no z/OS <strong>IFCDIP00</strong>.</td>
+  </tr> 
+  
 </table>
 
 <br />
