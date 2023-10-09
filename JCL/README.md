@@ -293,6 +293,7 @@ As utilities são ferramentas essenciais para os administradores e desenvolvedor
 <li><strong>IEBCOMPR</strong>: Compara dois datasets para verificar se são idênticos ou quais são as diferenças entre eles.</li>
 <li><strong>IEBPTPCH</strong>: Imprime ou perfura registros de um dataset em uma saída.</li>
 <li><strong>IEBUPDTE</strong>: Atualiza um dataset existente, adicionando, modificando ou excluindo registros.</li>
+<li><strong>IFCDIP00</strong>: A Interactive File Control Display Program permite manipular datasets no z/OS.</li>
 <li><strong>IKJEFT01</strong>: É uma utilidade do TSO que permite a execução de comandos ou scripts em um ambiente batch.</li>
 <li><strong>IEHLIST</strong>: Gera listagens de dados ou datasets formatados para exibição.</li>
 <li><strong>IEHPROGM</strong>: Utility de criação de programas que ajuda na geração de programas COBOL.</li>
