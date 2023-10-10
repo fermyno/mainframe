@@ -275,6 +275,10 @@ Todos os programas contidos neste repositório foram testados por mim nos Sistem
     <td valign="left"><a href="https://github.com/fermyno/mainframe/tree/main/JCL/src/CLEARLOG.txt"><strong>CLEARLOG</strong>:</a></td>
     <td valign="left">JCL que apaga o conteúdo do dataset de log SYS1.LOGREC no z/OS usando o <strong>IFCDIP00</strong>.</td>
   </tr> 
+  <tr>
+    <td valign="left"><a href="https://github.com/fermyno/mainframe/tree/main/JCL/src/PDSLSTPS.txt"><strong>PDSLSTPS</strong>:</a></td>
+    <td valign="left">JCL imprime o conteúdo de todos os membros de datasets PDS ou PDSE em um dataset sequencial (PS) usando o <strong>IEBPTPCH</strong>.</td>
+  </tr> 
   
 </table>
 
