@@ -9,6 +9,9 @@ Repositório de programas escritos para a alta plataforma.
 * [COBOL](https://github.com/fermyno/mainframe/tree/main/COBOL)  
   **Descrição:** Programas escritos na linguagem COBOL (alta e baixa plataforma).  
 
+* [PL/I](https://github.com/fermyno/mainframe/tree/main/PLI)  
+  **Descrição:** Programas escritos na linguagem PL/I (PL1).
+  
 * [REXX](https://github.com/fermyno/mainframe/tree/main/REXX)  
   **Descrição:** Programas escritos na linguagem REXX.  
 
