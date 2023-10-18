@@ -1,0 +1,246 @@
+                           
+PARAMETROS RECEBIDOS: GET  
+                           
+INFORMACOES:               
+                           
+COD.:001 NOME: REINALDO SILVEIRA             
+         END.: AV. MARTINELO SOARES, 35      
+         DOC.: 543210988                     
+         CID.: PORTO ALEGRE                  
+         UF  : RS                            
+                                             
+COD.:002 NOME: SOLANGE MILENATO              
+         END.: AV. GEN. LEOPOLDO BRATES, 41  
+         DOC.: 678909879                     
+         CID.: RIO DE JANEIRO                
+         UF  : RJ                            
+                                             
+COD.:003 NOME: CARLA BITELO SILVA            
+         END.: RUA DOS OLIVAIS, 1032. AP. 14 
+         DOC.: 987654321                     
+         CID.: SAO PAULO                     
+         UF  : SP                            
+                                             
+COD.:004 NOME: RODRIGO MONTES                
+         END.: AV. TRIDENTES, 118
+         DOC.: 567890123         
+         CID.: SAO PAULO         
+         UF  : SP                
+                                 
+COD.:005 NOME: RENATA SORAYA     
+         END.: TV. PERDIDA, S/N  
+         DOC.: 234567890         
+         CID.: FLORIANOPOLIS     
+         UF  : SC                
+                                 
+COD.:006 NOME: CARLOS MENDEZ     
+         END.: BC. DO ALEMAO     
+         DOC.: 890123456         
+         CID.: CAMPINAS          
+         UF  : SP                
+                                 
+COD.:007 NOME: SILVERIO CARDOSO  
+         END.: AV. PRESIDENTE MARTINS, 423 
+         DOC.: 345678901                   
+         CID.: RIO DE JANEIRO              
+         UF  : RJ                          
+                                           
+COD.:008 NOME: ANTONINO DA SILVA           
+         END.: AV. BRASIL, 1748            
+         DOC.: 456789012                   
+         CID.: SAO PAULO                   
+         UF  : SP                          
+                                           
+COD.:009 NOME: CARLOS LOPES                
+         END.: AV. PAULISTA, 1232. SL. 1544
+         DOC.: 678901234                   
+         CID.: SAO PAULO                   
+         UF  : SP                          
+                                           
+COD.:010 NOME: CESAR COSTA                 
+         END.: RUA AUGUSTA, 854   
+         DOC.: 789012345          
+         CID.: SAO PAULO          
+         UF  : SP                 
+                                  
+COD.:011 NOME: DAVID PEREIRA      
+         END.: AV. RIO BRANCO, 124
+         DOC.: 345678909          
+         CID.: RIO DE JANEIRO     
+         UF  : RJ                 
+                                  
+COD.:012 NOME: EDUARDO SANTOS     
+         END.: AV. IPIRANGA, 653  
+         DOC.: 456789098          
+         CID.: RIO DE JANEIRO     
+         UF  : RJ                 
+                                  
+COD.:013 NOME: FRANCISCO GOMES    
+         END.: AV. BRASIL, 1325    
+         DOC.: 678909876           
+         CID.: SAO PAULO           
+         UF  : SP                  
+                                   
+COD.:014 NOME: GABRIEL SILVA       
+         END.: AV. PAULISTA, 235   
+         DOC.: 789098765           
+         CID.: SAO PAULO           
+         UF  : SP                  
+                                   
+COD.:015 NOME: HENRIQUE MARTINS    
+         END.: AV. RIO BRANCO, 1423
+         DOC.: 987654323           
+         CID.: RIO DE JANEIRO      
+         UF  : RJ                  
+                                   
+COD.:016 NOME: IVAN FERNANDES      
+         END.: AV. IPIRANGA, 2896 
+         DOC.: 543210987          
+         CID.: RIO DE JANEIRO     
+         UF  : RJ                 
+                                  
+COD.:017 NOME: JUAN DIAS          
+         END.: AV. PAULISTANO, 745
+         DOC.: 654321098          
+         CID.: SAO PAULO          
+         UF  : SP                 
+                                  
+COD.:018 NOME: LUIS PEREIRA       
+         END.: RUA AUGUSTA, 1633  
+         DOC.: 432109876          
+         CID.: SAO PAULO          
+         UF  : SP                 
+                                  
+COD.:019 NOME: MARIA SILVA        
+         END.: RUA XV DE NOVEMBRO, 18
+         DOC.: 210987654             
+         CID.: RIO DE JANEIRO        
+         UF  : RJ                    
+                                     
+COD.:020 NOME: MIGUEL COSTA          
+         END.: RUA SAO PAULO, 1655   
+         DOC.: 321098765             
+         CID.: RIO DE JANEIRO        
+         UF  : RJ                    
+                                     
+COD.:021 NOME: PEDRO GOMES           
+         END.: RUA DO COMERCIO, 5248 
+         DOC.: 987654322             
+         CID.: RIO DE JANEIRO        
+         UF  : RJ                    
+                                     
+COD.:022 NOME: RODRIGO FERNANDES     
+         END.: RUA DA QUITADA, 234    
+         DOC.: 123450987              
+         CID.: RIO DE JANEIRO         
+         UF  : RJ                     
+                                      
+COD.:023 NOME: THOMAS SILVA           
+         END.: RUA DOS ANDRADAS, 774  
+         DOC.: 876543210              
+         CID.: RIO DE JANEIRO         
+         UF  : RJ                     
+                                      
+COD.:024 NOME: VICENTE MARTINS        
+         END.: RUA DOS PINHEIROS, 1698
+         DOC.: 543212345              
+         CID.: SAO PAULO              
+         UF  : SP                     
+                                      
+COD.:025 NOME: ANA CRISTINA           
+         END.: RUA DA CONSOLACAO, 1788
+         DOC.: 321098766              
+         CID.: SAO PAULO              
+         UF  : SP                     
+                                      
+COD.:026 NOME: BRUNO OLIVEIRA         
+         END.: RUA DAS FLORES, 23     
+         DOC.: 456789013              
+         CID.: SAO PAULO              
+         UF  : SP                     
+                                      
+COD.:027 NOME: CARLA PEREIRA          
+         END.: RUA DO OUVIDOR, 187    
+         DOC.: 234567892              
+         CID.: RIO DE JANEIRO         
+         UF  : RJ                     
+                                      
+COD.:028 NOME: DIANA FERNANDES        
+         END.: RUA DA LIBERDADE, 1366
+         DOC.: 987654320             
+         CID.: SAO PAULO             
+         UF  : SP                    
+                                     
+COD.:029 NOME: EDUARDO COSTA         
+         END.: RUA DO CARMO, 127     
+         DOC.: 567890121             
+         CID.: SAO PAULO             
+         UF  : SP                    
+                                     
+COD.:030 NOME: FERNANDA SILVA        
+         END.: RUA DIREITA, 568      
+         DOC.: 123456789             
+         CID.: SAO PAULO             
+         UF  : SP                    
+                                     
+COD.:031 NOME: GUSTAVO MARTINS       
+         END.: RUA DO LAVRADIO, 233
+         DOC.: 789012347           
+         CID.: RIO DE JANEIRO      
+         UF  : RJ                  
+                                   
+COD.:032 NOME: IARA SANTOS         
+         END.: RUA DA CARIOCA, 699 
+         DOC.: 890123454           
+         CID.: RIO DE JANEIRO      
+         UF  : RJ                  
+                                   
+COD.:033 NOME: JULIANA DIAS        
+         END.: RUA DA BAHIA, 854   
+         DOC.: 345678900           
+         CID.: SALVADOR            
+         UF  : BA                  
+                                   
+COD.:034 NOME: LUISA PEREIRA       
+         END.: RUA DA PRAIA, 1025
+         DOC.: 890123455         
+         CID.: SALVADOR          
+         UF  : BA                
+                                 
+COD.:035 NOME: MARIA CLARA       
+         END.: RUA DA GLORIA, 332
+         DOC.: 456789009         
+         CID.: SALVADOR          
+         UF  : BA                
+                                 
+COD.:036 NOME: MIGUEL LOPES      
+         END.: RUA DA LAPA, 154  
+         DOC.: 123456780         
+         CID.: SALVADOR          
+         UF  : BA                
+                                 
+COD.:037 NOME: PAULO GOMES       
+         END.: RUA DO SENADO, 890
+         DOC.: 678901233         
+         CID.: SALVADOR          
+         UF  : BA                
+                                 
+COD.:038 NOME: RAQUEL SILVA      
+         END.: RUA DA AJUDA, 1662
+         DOC.: 890123450         
+         CID.: SALVADOR          
+         UF  : BA                
+                                 
+COD.:039 NOME: THAIS COSTA       
+         END.: RUA DO CARMO, 4325
+         DOC.: 345678912         
+         CID.: SAO PAULO         
+         UF  : SP                
+                                 
+COD.:040 NOME: VICTOR MARTINS    
+         END.: RUA DO COMERCIO, 223                                             
+         DOC.: 456789090                                                        
+         CID.: RIO DE JANEIRO                                                   
+         UF  : RJ                                                               
+                                                                                
+******************************** BOTTOM OF DATA ********************************
