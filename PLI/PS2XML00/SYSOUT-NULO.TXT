@@ -1,0 +1,9 @@
+ERRO: PARAMETROS EM FALTA.                                                      
+USAR: PARM='/GET 011'                                                           
+                                                                                
+PARAMETROS RECEBIDOS:                                                           
+                                                                                
+INFORMACOES:                                                                    
+                                                                                
+TERMINO NORMAL DO PROGRAMA.                                                     
+******************************** BOTTOM OF DATA ********************************
