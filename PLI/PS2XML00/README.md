@@ -13,11 +13,11 @@ Cabe ressaltar que, naquela época, não existia a Internet como conhecemos atua
 
 # Programa:
 
-* **Programa:** [PS2XML00.PLI](PS2XML00.PLI)  
-  **Copybook:** [DATAINPL.CPY](DATAINPL.CPY)  
-  **Data set de entrada:** [DATAIN.TXT](DATAIN.TXT)  
-  **JCL para compilação:** [PS2XMLCP.JCL](PS2XMLCP.JCL)  
-  **JCL para execução:** [PS2XMLRN.JCL](PS2XMLRN.JCL)  
+**Programa:** [PS2XML00.PLI](PS2XML00.PLI)  
+**Copybook:** [DATAINPL.CPY](DATAINPL.CPY)  
+**Data set de entrada:** [DATAIN.TXT](DATAIN.TXT)  
+**JCL para compilação:** [PS2XMLCP.JCL](PS2XMLCP.JCL)  
+**JCL para execução:** [PS2XMLRN.JCL](PS2XMLRN.JCL)  
     
  
 # Capturas de Tela:
