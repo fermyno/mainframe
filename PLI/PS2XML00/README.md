@@ -7,7 +7,7 @@
 
 Este esqueleto de programa em PL/I foi utilizado como modelo para a geração de datasets em formato XML para intercâmbio eletrônico de informações entre agências bancárias nos anos 90.
 O objetivo era padronizar a comunicação de datasets entre agências bancárias e a Central de Processamento de Dados do banco.<br />
-Cabe ressaltar que, naquela época, não existia a Internet como conhecemos atualmente, e a transferência de dados era realizada através de "moto-boys", responsáveis por transportar fisicamente os rolos de fitas magnéticas entre as agências e o CPD.
+Cabe ressaltar que, naquela época, não existia a Internet como conhecemos atualmente, e a transferência de dados era realizada através de "moto-boys", responsáveis por transportar fisicamente os rolos de fitas magnéticas entre as agências e o CPD (Centro de Processamento de Dados).
 
 **Desenvolvimento do Projeto:** Fermyno Gutierrez  
 
