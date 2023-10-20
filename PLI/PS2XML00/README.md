@@ -1,5 +1,4 @@
 > **Warning**
-> 
 > Os arquivos estão mantidos neste repositório apenas para fins de demonstração e documentação. 
 
 # Sobre o Modelo de Gerador de XML em PL/I:
@@ -21,7 +20,7 @@ Cabe ressaltar que, naquela época, não existia a Internet como conhecemos atua
  
 # Código-fonte:
 
-**PROGRAMA PL/I**  
+<strong>PROGRAMA PL/I</strong>
 
 ```
  /********************************************************************/ 
@@ -245,7 +244,7 @@ Cabe ressaltar que, naquela época, não existia a Internet como conhecemos atua
  END START;                               
 ```
 
-**COPYBOOK DATAINPL**  
+<strong>COPYBOOK DATAINPL</strong>
 
 ```
     /*****************************/
