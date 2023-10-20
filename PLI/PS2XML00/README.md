@@ -21,7 +21,7 @@ Cabe ressaltar que, naquela época, não existia a Internet como conhecemos atua
  
 # Código-fonte:
 
-PROGRAMA PL/I
+**PROGRAMA PL/I**  
 
 ```
  /********************************************************************/ 
@@ -245,7 +245,7 @@ PROGRAMA PL/I
  END START;                               
 ```
 
-COPYBOOK DATAINPL
+**COPYBOOK DATAINPL**  
 
 ```
     /*****************************/
