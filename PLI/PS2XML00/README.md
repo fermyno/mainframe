@@ -1,6 +1,5 @@
 > **Warning**
 > 
-> [DEPRECATED]  
 > Os arquivos estão mantidos neste repositório apenas para fins de demonstração e documentação. 
 
 # Sobre o Modelo de Gerador de XML em PL/I:
@@ -246,7 +245,7 @@ PROGRAMA PL/I
  END START;                               
 ```
 
-COPYBOOK
+COPYBOOK DATAINPL
 
 ```
     /*****************************/
