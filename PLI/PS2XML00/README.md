@@ -1,7 +1,7 @@
 > **Warning**
 > Os arquivos estão mantidos neste repositório apenas para fins de demonstração e documentação. 
 
-# Sobre o Modelo de Gerador de XML em PL/I:
+# Gerador de XML em PL/I:
 
 Este esqueleto de programa em PL/I foi utilizado como modelo para a geração de datasets em formato XML para intercâmbio eletrônico de informações entre agências bancárias nos anos 90.
 O objetivo era padronizar a comunicação de datasets entre agências bancárias e a Central de Processamento de Dados do banco.<br />
