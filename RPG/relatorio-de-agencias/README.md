@@ -3,7 +3,7 @@
 > [DEPRECATED]  
 > Os arquivos estão mantidos neste repositório apenas para fins de demonstração e documentação. 
 
-# Sobre o Modelo de Relatório RPG-II:
+# Modelo de Relatório RPG-II:
 
 Este esqueleto de programa em RPG-II foi utilizado como modelo para a geração de relatório de agências bancárias nos anos 90.  
 Utilizando um data set gerado pelo mainframe, em formato padronizado, permitia a adaptação dos relatórios aos diferentes banco e agências.  
