@@ -263,7 +263,7 @@ Cabe ressaltar que, naquela época, não existia a Internet como conhecemos atua
 ```
 
 <br />
-<strong>FORMATO DO DATA SET DATAIN</strong>
+<strong>FORMATO DO DATA SET DE ENTRADA</strong>
 
 ```
 001REINALDO SILVEIRA   AV. MARTINELO SOARES, 35      543210988 PORTO ALEGRE   RS
