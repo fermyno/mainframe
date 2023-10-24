@@ -244,6 +244,7 @@ Cabe ressaltar que, naquela época, não existia a Internet como conhecemos atua
  END START;                               
 ```
 
+<br />
 <strong>COPYBOOK DATAINPL</strong>
 
 ```
@@ -261,3 +262,15 @@ Cabe ressaltar que, naquela época, não existia a Internet como conhecemos atua
           2 FREGION   CHAR (02);   
 ```
 
+<br />
+<strong>FORMATO DO DATA SET DATAIN</strong>
+
+```
+001REINALDO SILVEIRA   AV. MARTINELO SOARES, 35      543210988 PORTO ALEGRE   RS
+002SOLANGE MILENATO    AV. GEN. LEOPOLDO BRATES, 41  678909879 RIO DE JANEIRO RJ
+003CARLA BITELO SILVA  RUA DOS OLIVAIS, 1032. AP. 14 987654321 SAO PAULO      SP
+004RODRIGO MONTES      AV. TRIDENTES, 118            567890123 SAO PAULO      SP
+005RENATA SORAYA       TV. PERDIDA, S/N              234567890 FLORIANOPOLIS  SC
+```
+
+<br />
