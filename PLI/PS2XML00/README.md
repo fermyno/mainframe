@@ -268,6 +268,11 @@ Cabe ressaltar que, naquela época, não existia a Internet como conhecemos atua
 ```
 ```
 
+<br />
+<strong>JCL PARA EXECUÇÃO DO PROGRAMA</strong>
+
+```
+```
 
 <br />
 <strong>FORMATO DO DATA SET DE ENTRADA</strong>
