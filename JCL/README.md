@@ -277,7 +277,7 @@ Todos os programas contidos neste repositório foram testados por mim nos Sistem
   </tr> 
   <tr>
     <td valign="left"><a href="https://github.com/fermyno/mainframe/tree/main/JCL/src/PDSLSTPS.txt"><strong>PDSLSTPS</strong>:</a></td>
-    <td valign="left">JCL imprime o conteúdo de todos os membros de datasets PDS ou PDSE em um dataset sequencial (PS) usando o <strong>IEBPTPCH</strong>.</td>
+    <td valign="left">JCL imprime/lista o conteúdo de todos os membros de datasets PDS ou PDSE em um dataset sequencial (PS) usando o <strong>IEBPTPCH</strong>.</td>
   </tr> 
   
 </table>
