@@ -1,7 +1,7 @@
 > **Warning**
 > Os arquivos estão mantidos neste repositório apenas para fins de demonstração e documentação. 
 
-# Gerador de XML em PL/I:
+# Gerador de XML em PL/I
 
 Este esqueleto de programa em PL/I foi utilizado como modelo para a geração de datasets em formato XML para intercâmbio eletrônico de informações entre agências bancárias nos anos 90.
 O objetivo era padronizar a comunicação de datasets entre agências bancárias e a Central de Processamento de Dados do banco.<br />
@@ -9,7 +9,7 @@ Cabe ressaltar que, naquela época, não existia a Internet como conhecemos atua
 
 **Desenvolvimento do Projeto:** Fermyno Gutierrez  
 
-# Data Sets:
+# Data Sets
 
 **Programa:** [PS2XML00.PLI](PS2XML00.PLI)  
 **Copybook:** [DATAINPL.CPY](DATAINPL.CPY)  
@@ -18,7 +18,7 @@ Cabe ressaltar que, naquela época, não existia a Internet como conhecemos atua
 **JCL para execução:** [PS2XMLRN.JCL](PS2XMLRN.JCL)  
     
  
-# Código-fonte:
+# Código-fonte
 
 <strong>PROGRAMA PL/I</strong>
 
@@ -262,7 +262,7 @@ Cabe ressaltar que, naquela época, não existia a Internet como conhecemos atua
           2 FREGION   CHAR (02);   
 ```
 
-# JCL:
+# JCL
 
 <br />
 <strong>JCL PARA COMPILAÇÃO DO PROGRAMA</strong>
@@ -351,6 +351,8 @@ Cabe ressaltar que, naquela época, não existia a Internet como conhecemos atua
 //FILEIN    DD DSN=FERMYNO.DSFILES(DATAIN),DISP=SHR                             
 //FILEOUT   DD DSN=FERMYNO.DSFILES(DATAOUT),DISP=SHR  
 ```
+
+# Formatos dos Data Sets
 
 <br />
 <strong>FORMATO DO DATA SET DE ENTRADA</strong>
