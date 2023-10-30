@@ -369,6 +369,15 @@ Cabe ressaltar que, naquela época, não existia a Internet como conhecemos atua
 <strong>VALORES DA SYSOUT COM VALOR DE ENTRADA NULO</strong>
 
 ```
+ERRO: PARAMETROS EM FALTA.                                                      
+USAR: PARM='/GET 011'                                                           
+                                                                                
+PARAMETROS RECEBIDOS:                                                           
+                                                                                
+INFORMACOES:                                                                    
+                                                                                
+TERMINO NORMAL DO PROGRAMA.                                                     
+******************************** BOTTOM OF DATA ********************************
 ```
 
 
