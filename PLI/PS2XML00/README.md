@@ -382,14 +382,26 @@ TERMINO NORMAL DO PROGRAMA.
 
 
 <br />
-<strong>VALORES DA SYSOUT COM VALOR DE ENTRADA PARM 'COD 012'</strong>
+<strong>VALORES DA SYSOUT COM VALOR DE ENTRADA PARM 'GET 012'</strong>
 
 ```
+PARAMETROS RECEBIDOS: GET 012                                                   
+                                                                                
+INFORMACOES:                                                                    
+                                                                                
+COD.:012 NOME: EDUARDO SANTOS                                                   
+         END.: AV. IPIRANGA, 653                                                
+         DOC.: 456789098                                                        
+         CID.: RIO DE JANEIRO                                                   
+         UF  : RJ                                                               
+                                                                                
+TERMINO NORMAL DO PROGRAMA.                                                     
+******************************** BOTTOM OF DATA ********************************
 ```
 
 
 <br />
-<strong>VALORES DA SYSOUT COM VALOR DE ENTRADA PARM 'COD '</strong>
+<strong>VALORES DA SYSOUT COM VALOR DE ENTRADA PARM 'GET '</strong>
 
 ```
 ```
