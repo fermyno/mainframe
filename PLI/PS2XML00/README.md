@@ -366,3 +366,22 @@ Cabe ressaltar que, naquela época, não existia a Internet como conhecemos atua
 ```
 
 <br />
+<strong>VALORES DA SYSOUT COM VALOR DE ENTRADA NULO</strong>
+
+```
+```
+
+
+<br />
+<strong>VALORES DA SYSOUT COM VALOR DE ENTRADA PARM 'COD 012'</strong>
+
+```
+```
+
+
+<br />
+<strong>VALORES DA SYSOUT COM VALOR DE ENTRADA PARM 'COD '</strong>
+
+```
+```
+
