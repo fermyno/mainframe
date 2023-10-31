@@ -672,5 +672,326 @@ COD.:040 NOME: VICTOR MARTINS
 <strong>VALORES DO DATA SET DE SAIDA EM FORMATO XML COM VALOR DE ENTRADA PARM 'GET '</strong>
 
 ```
-
+<clients>
+    <client>
+        <cod>001</cod>
+        <name>REINALDO SILVEIRA</name>
+        <address>AV. MARTINELO SOARES, 35</address>
+        <document>543210988</document>
+        <city>PORTO ALEGRE</city>
+        <region>RS</region>
+    </client>
+    <client>
+        <cod>002</cod>
+        <name>SOLANGE MILENATO</name>
+        <address>AV. GEN. LEOPOLDO BRATES, 41</address>
+        <document>678909879</document>
+        <city>RIO DE JANEIRO</city>
+        <region>RJ</region>
+    </client>
+    <client>
+        <cod>003</cod>
+        <name>CARLA BITELO SILVA</name>
+        <address>RUA DOS OLIVAIS, 1032. AP. 14</address>
+        <document>987654321</document>
+        <city>SAO PAULO</city>
+        <region>SP</region>
+    </client>
+    <client>
+        <cod>004</cod>
+        <name>RODRIGO MONTES</name>
+        <address>AV. TRIDENTES, 118</address>
+        <document>567890123</document>
+        <city>SAO PAULO</city>
+        <region>SP</region>
+    </client>
+    <client>
+        <cod>005</cod>
+        <name>RENATA SORAYA</name>
+        <address>TV. PERDIDA, S/N</address>
+        <document>234567890</document>
+        <city>FLORIANOPOLIS</city>
+        <region>SC</region>
+    </client>
+    <client>
+        <cod>006</cod>
+        <name>CARLOS MENDEZ</name>
+        <address>BC. DO ALEMAO</address>
+        <document>890123456</document>
+        <city>CAMPINAS</city>
+        <region>SP</region>
+    </client>
+    <client>
+        <cod>007</cod>
+        <name>SILVERIO CARDOSO</name>
+        <address>AV. PRESIDENTE MARTINS, 423</address>
+        <document>345678901</document>
+        <city>RIO DE JANEIRO</city>
+        <region>RJ</region>
+    </client>
+    <client>
+        <cod>008</cod>
+        <name>ANTONINO DA SILVA</name>
+        <address>AV. BRASIL, 1748</address>
+        <document>456789012</document>
+        <city>SAO PAULO</city>
+        <region>SP</region>
+    </client>
+    <client>
+        <cod>009</cod>
+        <name>CARLOS LOPES</name>
+        <address>AV. PAULISTA, 1232. SL. 1544</address>
+        <document>678901234</document>
+        <city>SAO PAULO</city>
+        <region>SP</region>
+    </client>
+    <client>
+        <cod>010</cod>
+        <name>CESAR COSTA</name>
+        <address>RUA AUGUSTA, 854</address>
+        <document>789012345</document>
+        <city>SAO PAULO</city>
+        <region>SP</region>
+    </client>
+    <client>
+        <cod>011</cod>
+        <name>DAVID PEREIRA</name>
+        <address>AV. RIO BRANCO, 124</address>
+        <document>345678909</document>
+        <city>RIO DE JANEIRO</city>
+        <region>RJ</region>
+    </client>
+    <client>
+        <cod>012</cod>
+        <name>EDUARDO SANTOS</name>
+        <address>AV. IPIRANGA, 653</address>
+        <document>456789098</document>
+        <city>RIO DE JANEIRO</city>
+        <region>RJ</region>
+    </client>
+    <client>
+        <cod>013</cod>
+        <name>FRANCISCO GOMES</name>
+        <address>AV. BRASIL, 1325</address>
+        <document>678909876</document>
+        <city>SAO PAULO</city>
+        <region>SP</region>
+    </client>
+    <client>
+        <cod>014</cod>
+        <name>GABRIEL SILVA</name>
+        <address>AV. PAULISTA, 235</address>
+        <document>789098765</document>
+        <city>SAO PAULO</city>
+        <region>SP</region>
+    </client>
+    <client>
+        <cod>015</cod>
+        <name>HENRIQUE MARTINS</name>
+        <address>AV. RIO BRANCO, 1423</address>
+        <document>987654323</document>
+        <city>RIO DE JANEIRO</city>
+        <region>RJ</region>
+    </client>
+    <client>
+        <cod>016</cod>
+        <name>IVAN FERNANDES</name>
+        <address>AV. IPIRANGA, 2896</address>
+        <document>543210987</document>
+        <city>RIO DE JANEIRO</city>
+        <region>RJ</region>
+    </client>
+    <client>
+        <cod>017</cod>
+        <name>JUAN DIAS</name>
+        <address>AV. PAULISTANO, 745</address>
+        <document>654321098</document>
+        <city>SAO PAULO</city>
+        <region>SP</region>
+    </client>
+    <client>
+        <cod>018</cod>
+        <name>LUIS PEREIRA</name>
+        <address>RUA AUGUSTA, 1633</address>
+        <document>432109876</document>
+        <city>SAO PAULO</city>
+        <region>SP</region>
+    </client>
+    <client>
+        <cod>019</cod>
+        <name>MARIA SILVA</name>
+        <address>RUA XV DE NOVEMBRO, 18</address>
+        <document>210987654</document>
+        <city>RIO DE JANEIRO</city>
+        <region>RJ</region>
+    </client>
+    <client>
+        <cod>020</cod>
+        <name>MIGUEL COSTA</name>
+        <address>RUA SAO PAULO, 1655</address>
+        <document>321098765</document>
+        <city>RIO DE JANEIRO</city>
+        <region>RJ</region>
+    </client>
+    <client>
+        <cod>021</cod>
+        <name>PEDRO GOMES</name>
+        <address>RUA DO COMERCIO, 5248</address>
+        <document>987654322</document>
+        <city>RIO DE JANEIRO</city>
+        <region>RJ</region>
+    </client>
+    <client>
+        <cod>022</cod>
+        <name>RODRIGO FERNANDES</name>
+        <address>RUA DA QUITADA, 234</address>
+        <document>123450987</document>
+        <city>RIO DE JANEIRO</city>
+        <region>RJ</region>
+    </client>
+    <client>
+        <cod>023</cod>
+        <name>THOMAS SILVA</name>
+        <address>RUA DOS ANDRADAS, 774</address>
+        <document>876543210</document>
+        <city>RIO DE JANEIRO</city>
+        <region>RJ</region>
+    </client>
+    <client>
+        <cod>024</cod>
+        <name>VICENTE MARTINS</name>
+        <address>RUA DOS PINHEIROS, 1698</address>
+        <document>543212345</document>
+        <city>SAO PAULO</city>
+        <region>SP</region>
+    </client>
+    <client>
+        <cod>025</cod>
+        <name>ANA CRISTINA</name>
+        <address>RUA DA CONSOLACAO, 1788</address>
+        <document>321098766</document>
+        <city>SAO PAULO</city>
+        <region>SP</region>
+    </client>
+    <client>
+        <cod>026</cod>
+        <name>BRUNO OLIVEIRA</name>
+        <address>RUA DAS FLORES, 23</address>
+        <document>456789013</document>
+        <city>SAO PAULO</city>
+        <region>SP</region>
+    </client>
+    <client>
+        <cod>027</cod>
+        <name>CARLA PEREIRA</name>
+        <address>RUA DO OUVIDOR, 187</address>
+        <document>234567892</document>
+        <city>RIO DE JANEIRO</city>
+        <region>RJ</region>
+    </client>
+    <client>
+        <cod>028</cod>
+        <name>DIANA FERNANDES</name>
+        <address>RUA DA LIBERDADE, 1366</address>
+        <document>987654320</document>
+        <city>SAO PAULO</city>
+        <region>SP</region>
+    </client>
+    <client>
+        <cod>029</cod>
+        <name>EDUARDO COSTA</name>
+        <address>RUA DO CARMO, 127</address>
+        <document>567890121</document>
+        <city>SAO PAULO</city>
+        <region>SP</region>
+    </client>
+    <client>
+        <cod>030</cod>
+        <name>FERNANDA SILVA</name>
+        <address>RUA DIREITA, 568</address>
+        <document>123456789</document>
+        <city>SAO PAULO</city>
+        <region>SP</region>
+    </client>
+    <client>
+        <cod>031</cod>
+        <name>GUSTAVO MARTINS</name>
+        <address>RUA DO LAVRADIO, 233</address>
+        <document>789012347</document>
+        <city>RIO DE JANEIRO</city>
+        <region>RJ</region>
+    </client>
+    <client>
+        <cod>032</cod>
+        <name>IARA SANTOS</name>
+        <address>RUA DA CARIOCA, 699</address>
+        <document>890123454</document>
+        <city>RIO DE JANEIRO</city>
+        <region>RJ</region>
+    </client>
+    <client>
+        <cod>033</cod>
+        <name>JULIANA DIAS</name>
+        <address>RUA DA BAHIA, 854</address>
+        <document>345678900</document>
+        <city>SALVADOR</city>
+        <region>BA</region>
+    </client>
+    <client>
+        <cod>034</cod>
+        <name>LUISA PEREIRA</name>
+        <address>RUA DA PRAIA, 1025</address>
+        <document>890123455</document>
+        <city>SALVADOR</city>
+        <region>BA</region>
+    </client>
+    <client>
+        <cod>035</cod>
+        <name>MARIA CLARA</name>
+        <address>RUA DA GLORIA, 332</address>
+        <document>456789009</document>
+        <city>SALVADOR</city>
+        <region>BA</region>
+    </client>
+    <client>
+        <cod>036</cod>
+        <name>MIGUEL LOPES</name>
+        <address>RUA DA LAPA, 154</address>
+        <document>123456780</document>
+        <city>SALVADOR</city>
+        <region>BA</region>
+    </client>
+    <client>
+        <cod>037</cod>
+        <name>PAULO GOMES</name>
+        <address>RUA DO SENADO, 890</address>
+        <document>678901233</document>
+        <city>SALVADOR</city>
+        <region>BA</region>
+    </client>
+    <client>
+        <cod>038</cod>
+        <name>RAQUEL SILVA</name>
+        <address>RUA DA AJUDA, 1662</address>
+        <document>890123450</document>
+        <city>SALVADOR</city>
+        <region>BA</region>
+    </client>
+    <client>
+        <cod>039</cod>
+        <name>THAIS COSTA</name>
+        <address>RUA DO CARMO, 4325</address>
+        <document>345678912</document>
+        <city>SAO PAULO</city>
+        <region>SP</region>
+    </client>
+    <client>
+        <cod>040</cod>
+        <name>VICTOR MARTINS</name>
+        <address>RUA DO COMERCIO, 223</address>
+        <document>456789090</document>
+        <city>RIO DE JANEIRO</city>
+        <region>RJ</region>
+    </client>
+</clients>
 ```
