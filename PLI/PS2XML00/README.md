@@ -399,6 +399,12 @@ TERMINO NORMAL DO PROGRAMA.
 ******************************** BOTTOM OF DATA ********************************
 ```
 
+<br />
+<strong>VALORES DO DATA SET DE SAIDA EM FORMATO XML COM VALOR DE ENTRADA PARM 'GET 012'</strong>
+
+```
+```
+
 
 <br />
 <strong>VALORES DA SYSOUT COM VALOR DE ENTRADA PARM 'GET '</strong>
