@@ -668,3 +668,9 @@ COD.:040 NOME: VICTOR MARTINS
 ******************************** BOTTOM OF DATA ********************************
 ```
 
+<br />
+<strong>VALORES DO DATA SET DE SAIDA EM FORMATO XML COM VALOR DE ENTRADA PARM 'GET '</strong>
+
+```
+
+```
