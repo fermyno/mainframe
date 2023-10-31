@@ -403,6 +403,16 @@ TERMINO NORMAL DO PROGRAMA.
 <strong>VALORES DO DATA SET DE SAIDA EM FORMATO XML COM VALOR DE ENTRADA PARM 'GET 012'</strong>
 
 ```
+<clients>
+    <client>
+        <cod>012</cod>
+        <name>EDUARDO SANTOS</name>
+        <address>AV. IPIRANGA, 653</address>
+        <document>456789098</document>
+        <city>RIO DE JANEIRO</city>
+        <region>RJ</region>
+    </client>
+</clients>
 ```
 
 
