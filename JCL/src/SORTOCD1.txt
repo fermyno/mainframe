@@ -20,4 +20,4 @@
 //SYSIN    DD *
   SORT FIELDS=(1,10,CH,A)
   INCLUDE COND=(22,2,CH,EQ,C'RJ',OR,22,2,CH,EQ,C'SP')
-/*
+/* 
