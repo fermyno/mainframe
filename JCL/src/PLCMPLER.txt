@@ -5,9 +5,11 @@
 //************************************************************
 //* PARAMETER AREA                                            
 //************************************************************
-// SET SRCMBR=PLI002                // MEMBER NAME SOURCE     
-// SET SRCFIL=FERMYNO.LIBS.PLI      // DSNAME SOURCE          
-// SET LOADLIB=FERMYNO.LIBS.LOADCBL // FILENAME LOADLIB       
+// SET SRCMBR=PLI002                    // MEMBER NAME SOURCE
+// SET SRCFIL=FERMYNO.LIBS.PLI          // DSNAME SOURCE     
+// SET LOADLIB=FERMYNO.LIBS.LOADCBL     // FILENAME LOADLIB  
+// SET DATAIN=FERMYNO.DSFILES(CLIENTS)  // INPUT  DATASET    
+// SET DATAOUT=FERMYNO.DSFILES(DATAOUT) // OUTPUT DATASET
 //************************************************************
 //PLI      EXEC PGM=IBMZPLI,                                  
 //         PARM='OBJECT,OPTIONS,SOURCE',                      
@@ -48,8 +50,8 @@
 //* ---------------------------------------------------------*
 //* DATA SETS USADOS PELO PROGRAMA                            
 //* ---------------------------------------------------------*
-//FILEIN    DD DSN=FERMYNO.DSFILES(CLIENTS5),DISP=SHR         
-//FILEOUT   DD DSN=FERMYNO.DSFILES(DATAOUT),DISP=SHR          
+//FILEIN    DD DSN=&DATAIN,DISP=SHR         
+//FILEOUT   DD DSN=&DATAOUT,DISP=SHR          
 //************************************************************
 // ELSE                                                       
 // ENDIF                                                      
