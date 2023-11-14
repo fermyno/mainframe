@@ -8,7 +8,7 @@ Todos os programas contidos neste repositório foram testados por mim nos Sistem
 
 <table border="0" cellspacing="2">
   <tr>
-    <td valign="left"><a href="https://github.com/fermyno/mainframe/tree/main/JCL/src/NEWUSER1.txt">:page_facing_up:<strong>NEWUSER1</strong>:</a></td>
+    <td valign="left"><a href="https://github.com/fermyno/mainframe/tree/main/JCL/src/NEWUSER1.txt">:page_facing_up:&nbsp;<strong>NEWUSER1</strong>:</a></td>
     <td valign="left">JCL para criar usuários administradores com acesso ao DB2, usando <strong>IKJEFT01</strong>, <strong>IDCAMS</strong> e <strong>IEFBR14</strong>.</td>
   </tr>
   <tr>
