@@ -7,7 +7,7 @@ Repositorio de estudios desarrollados como requisitos para la conclusión del Cu
 
  **Alumno**: **Fermyno Gutierrez**  
  **Curso**: **Diploma en Cobol**  
- **Asignaturas**: [Ver programa del curso](docs/presentacion-del-curso.pdf).
+ **Asignaturas**: 📄 [Programa del curso](docs/presentacion-del-curso.pdf).
 
 <!-- # Actividades Desarrolladas -->
 
