@@ -13,7 +13,7 @@ Repositorio de estudios desarrollados como requisitos para la conclusión del Cu
 **Programa:** [U9-PE-AS01](trabajo-final/fermin.cbl)  
 **Requisitos:** Crear un sistema completo de manejos de datos de acuerdo con la [PROPUESTA DE TRABAJO](trabajo-final/TO_Laboratorio_de_Programacion.pdf).  
 **Entrega del Trabajo:** Para llevar a cabo la solución adoptada, se optó por el desarrollo de un sistema informático en COBOL con características detalladas en el documento.  
-**Reporte Final:** [REPORTE](trabajo-final/instrucciones/Reporte_Final.pdf)
+📄 [Reporte Final](trabajo-final/instrucciones/Reporte_Final.pdf)
 <br />
 
 ## Capturas de Pantalla del Trabajo Final de Curso  
