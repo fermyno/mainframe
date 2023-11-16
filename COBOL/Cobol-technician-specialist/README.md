@@ -9,12 +9,11 @@ Repositorio de estudios desarrollados como requisitos para la conclusión del Cu
 
 ## Actividades de Evaluación  
 
-* **TRABAJO FINAL DE CURSO:**  
-  **Programa:** [U9-PE-AS01](trabajo-final/fermin.cbl)  
-  **Requisitos:** CREAR UN SISTEMA COMPLETO DE MANEJOS DE DATOS DE ACUERDO CON LA [PROPUESTA DE TRABAJO](trabajo-final/TO_Laboratorio_de_Programacion.pdf).  
-  **Entrega del Trabajo:** PARA LLEVAR A CABO LA SOLUCIÓN ADOPTADA, SE OPTÓ POR EL DESARROLLO DE UN SISTEMA INFORMÁTICO EN COBOL CON 
-  CARACTERÍSTICAS DETALLADAS EN EL DOCUMENTO  
-  **Reporte Final:** [REPORTE](trabajo-final/instrucciones/Reporte_Final.pdf)
+**TRABAJO FINAL DE CURSO:**  
+**Programa:** [U9-PE-AS01](trabajo-final/fermin.cbl)  
+**Requisitos:** CREAR UN SISTEMA COMPLETO DE MANEJOS DE DATOS DE ACUERDO CON LA [PROPUESTA DE TRABAJO](trabajo-final/TO_Laboratorio_de_Programacion.pdf).  
+**Entrega del Trabajo:** PARA LLEVAR A CABO LA SOLUCIÓN ADOPTADA, SE OPTÓ POR EL DESARROLLO DE UN SISTEMA INFORMÁTICO EN COBOL CON CARACTERÍSTICAS DETALLADAS EN EL DOCUMENTO  
+**Reporte Final:** [REPORTE](trabajo-final/instrucciones/Reporte_Final.pdf)
 
 ## Capturas de Pantalla del Trabajo Final de Curso  
 
