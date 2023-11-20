@@ -18,33 +18,31 @@ Repositorio de estudios desarrollados como requisitos para la conclusión del Cu
 
 * **EVALUACIÓN I:**  
   **Programa:** 📄 [U8-PE-ASI10](trabajo/ACT-CLI.CBL)  
-  **Descripción:** PROGRAMA QUE MANEJA LOS ARCHIVOS: CLIENTES.DAT, SUCURSAL.DAT, PROVINCIAS.DAT. EL PROGRAMA DEBE PERMITIR:  
-  AÑADIR CLIENTES, BORRAR CLIENTES, CONSULTAR CLIENTES, Y MODIFICAR CLIENTES. ADEMAS EL ALUMNO DEBE CREAR PROGRAMAS PARA GENERAR TODAS LAS BASE DE DATOS.
+  **Descripción:** Programa que maneja los archivos: clientes.dat, sucursal.dat, provincias.dat. El programa debe permitir: añadir clientes, borrar clientes, consultar clientes, y modificar clientes. Además el alumno debe crear programas para generar todas las bases de datos.
   
 * **UNIDAD 8:**  
   **Programa:** 📄 [U8-PE-ASI10](src/U8-PE-ASI10.cbl)  
-  **Descripción:** PROGRAMA QUE CREA UN ARCHIVO SECUENCIAL DE CLIENTES Y UN ARCHIVO SECUENCIAL INDEXADO DE FACTURAS.  
+  **Descripción:** Programa que crea un archivo secuencial de clientes y un archivo secuencial indexado de facturas.  
 
 * **UNIDAD 9:**  
   **Programa:** 📄 [U9-PE-AS01](src/U9-PE-AS01.cbl)  
-  **Descripción:** PROGRAMA QUE CREA UN ARCHIVO SECUENCIAL DE ARTICULOS VACIO.  
+  **Descripción:** Programa que crea un archivo secuencial de artículos vacío.  
 
 * **UNIDAD 9:**  
   **Programa:** 📄 [U9-PE-AS02](src/U9-PE-AS02.cbl)  
-  **Descripción:** PROGRAMA QUE CREA UN ARCHIVO SECUENCIAL DE ARTICULOS VACIO.  
+  **Descripción:** Programa que crea un archivo secuencial de artículos vacío.  
 
 * **UNIDAD 9:**  
   **Programa:** 📄 [U9-PE-AS03](src/U9-PE-AS03.cbl)  
-  **Descripción:** ESTE PROGRAMA LEE LA INFORMACION DE LOS ARCHIVOS SECUENCIALES DE ARTICULOS Y DE TIPOS DE ARTICULOS Y MUESTRA SU INFORMACION POR PANTALLA LEE LOS ARCHIVOS ATPAR.SEC Y AARTI.SEC
+  **Descripción:** Este programa lee la información de los archivos secuenciales de artículos y de tipos de artículos y muestra su información por pantalla lee los archivos atpar.sec y aarti.sec
 
 * **UNIDAD 9:**  
   **Programa:** 📄 [U9-PE-AS04](src/U9-PE-AS04.cbl)  
-  **Descripción:** ESTE PROGRAMA LEE LA INFORMACION DEL ARCHIVO SECUENCIAL DE ARTICULOS Y INCREMENTA EN UN 10% EN LOS PRECIOS.  
+  **Descripción:** Este programa lee la información del archivo secuencial de artículos y incrementa en un 10 % en los precios.  
 
 * **UNIDAD 9:**  
   **Programa:** 📄 [U9-PE-AS05](src/U9-PE-AS05.cbl)  
-  **Descripción:** ESTE PROGRAMA LEE LA INFORMACION DEL ARCHIVO SECUENCIAL DE ARTICULOS Y ELIMINA LOS ARTICULOS DE DEPORTES. 
-  EN REALIDAD GRABA SOLAMENTE LOS REGISTROS REQUERIDOS EN UN NUEVO ARCHIVO.  
+  **Descripción:** Este programa lee la información del archivo secuencial de artículos y elimina los artículos de deportes. En realidad graba sólo los registros requeridos en un nuevo archivo.  
 
 * **UNIDAD 10:**  
   **Programa:** 📄 [U10-PE-ASI01](src/U10-PE-ASI01.cbl)  
