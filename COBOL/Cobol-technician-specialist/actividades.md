@@ -70,23 +70,23 @@ Repositorio de estudios desarrollados como requisitos para la conclusión del Cu
 
 * **UNIDAD 11:**  
   **Programa:** 📄 [U11-E1](src/U11-E1.cbl)  
-  **Descripción:** PROGRAMA QUE REALIZA EL MANTENIMIENTO DE UN ARCHIVO RELATIVO, MEDIANTE ALTAS, BAJAS Y CONSULTAS.  
+  **Descripción:** Programa que realiza el mantenimiento de un archivo relativo, mediante altas, bajas y consultas.  
 
 * **UNIDAD 11:**  
   **Programa:** 📄 [U11-E2](src/U11-E2.cbl)  
-  **Descripción:** PROGRAMA QUE MUESTRA POR PANTALLA DATOS DEL FICHERO PROVIN.DAT A PARTIR DE UN CÓDIGO INTRODUCIDO POR PANTALLA, CONTROLANDO SI SE LLEGA AL FINAL DE LA PANTALLA.  
+  **Descripción:** Programa que muestra por pantalla datos del fichero provin.dat a partir de un código introducido por pantalla, controlando si se llega al final de la pantalla.  
 
 * **UNIDAD 11:**  
   **Programa:** 📄 [U11-PE-AR01](src/U11-PE-AR01.cbl)  
-  **Descripción:** PROGRAMA QUE CREA UN ARCHIVO RELATIVO DE ARTICULOS A PARTIR DEL ARCHIVO SECUENCIAL DE ARTICULOS.  
+  **Descripción:** Programa que crea un archivo relativo de artículos a partir del archivo secuencial de artículos.  
 
 * **UNIDAD 11:**  
   **Programa:** 📄 [U11-PE-AR02](src/U11-PE-AR02.cbl)  
-  **Descripción:** PROGRAMA QUE ANADE REGISTROS EN UN ARCHIVO RELATIVO EN UNA DIRECCION ESPECIFICADA POR EL USUARIO.  
+  **Descripción:** Programa que añade registros en un archivo relativo en una dirección especificada por el usuario.  
 
 * **UNIDAD 11:**  
   **Programa:** 📄 [U11-PE-AR03](src/U11-PE-AR03.cbl)  
-  **Descripción:** PROGRAMA QUE LEE EN SECUENCIA EL ARCHIVO RELATIVO DE ARTICULOS.
+  **Descripción:** Programa que lee en secuencia el archivo relativo de artículos.
   
 
 
