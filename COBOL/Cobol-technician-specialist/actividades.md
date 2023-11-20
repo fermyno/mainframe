@@ -46,31 +46,27 @@ Repositorio de estudios desarrollados como requisitos para la conclusión del Cu
 
 * **UNIDAD 10:**  
   **Programa:** 📄 [U10-PE-ASI01](src/U10-PE-ASI01.cbl)  
-  **Descripción:** EL ARCHIVO ALMACENADO EN DISCO CON EL NOMBRE 'AARTI.IND' ES UN ARCHIVO SECUENCIAL INDEXADO.  
-  SU CLAVE PRIMARIA = COD-ARTI CLAVE SECUNDARIA COD-TPARTI (ACEPTA DUPLICADOS) SERA ACEDIDO DE FORMA ALEATORIA.  
-    PROGRAMA QUE CREA UN ARCHIVO SECUENCIAL INDEXADO DE ARTICULOS A PARTIR DEL ARCHIVO SECUENCIAL DE ARTICULOS.
+  **Descripción:** El archivo almacenado en disco con el nombre 'aarti.ind' es un archivo secuencial indexado. Su clave primaria = cod-arti clave secundaria cod-tparti (acepta duplicados) será accedido de forma aleatoria. Programa que crea un archivo secuencial indexado de artículos a partir del archivo secuencial de artículos.
     
  * **UNIDAD 10:**  
    **Programa:** 📄 [U10-PE-ASI03](src/U10-PE-ASI03.cbl)  
-   **Descripción:** PROGRAMA QUE LEE EN SECUENCIA LOS REGISTROS DEL ARCHIVO SECUENCIAL DE ARTICULOS.
+   **Descripción:** Programa que lee en secuencia los registros del archivo secuencial de artículos.
   
  * **UNIDAD 10:**  
    **Programa:** 📄 [U10-PE-ASI04](src/U10-PE-ASI04.cbl)   
-   **Descripción:** PROGRAMA QUE LEE EN SECUENCIA LOS REGISTROS DEL ARCHIVO SECUENCIAL INDEXADO DE ARTICULOS Y CON CODIGO DEL 
-   TIPO DE ARTICULOS ACCEDE AL ARCHIVO SECUENCIAL INDEXADO DE TIPOS DE ARTICULOS PARA SACAR SU DESCRIPCION.
+   **Descripción:** Programa que lee en secuencia los registros del archivo secuencial indexado de artículos y con código del tipo de artículos accede al archivo secuencial indexado de tipos de artículos para sacar su descripción.
   
 * **UNIDAD 10:**  
   **Programa:** 📄 [U10-PE-ASI05](src/U10-PE-ASI05.cbl)  
-  **Descripción:** PROGRAMA QUE REALIZA TODAS LAS INSTRUCCIONES DE ACCESSO ALEATORIO O DIRECTO CON EL ARCHIVO SECUENCIAL INDEXADO DE ARTICULOS: 
-  READ, WRITE, DELETE, REWRITE Y GESTIONA LOS ERRORES CON LA CLAUSULA INVALID. 
+  **Descripción:** Programa que realiza todas las instrucciones de acceso aleatorio o directo con el archivo secuencial indexado de artículos: read, write, delete, rewrite y gestiona los errores con la cláusula invalid. 
 
 * **UNIDAD 10:**  
   **Programa:** 📄 [U10-PE-ASI06](src/U10-PE-ASI06.cbl)  
-  **Descripción:** PROGRAMA QUE MUESTRA POR PANTALLA TODOS LOS REGISTROS DEL ARCHIVO INDEXADO DE ARTICULOS QUE PERTENENCEN A UN TIPO DE ARTICULO DETERMINADO.
+  **Descripción:** Programa que muestra por pantalla todos los registros del archivo indexado de artículos que pertenecen a un tipo de artículo determinado.
   
 * **UNIDAD 10:**  
   **Programa:** 📄 [U10-PE-ASI09](src/U10-PE-ASI09.cbl)  
-  **Descripción:** PROGRAMA QUE OBTIENE LOS VALORES MAXIMO Y MINIMO PARA UNA CLAVE EXISTENTE EN EL ARCHIVO SECUENCIAL INDEXADO DE ARTICULOS.  
+  **Descripción:** Programa que obtiene los valores máximo y mínimo para una clave existente en el archivo secuencial indexado de artículos.  
 
 * **UNIDAD 11:**  
   **Programa:** 📄 [U11-E1](src/U11-E1.cbl)  
