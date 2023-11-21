@@ -267,7 +267,7 @@ Cabe ressaltar que, naquela época, não existia a Internet como conhecemos atua
 <br />
 <strong>JCL PARA COMPILAÇÃO DO PROGRAMA</strong>
 
-```
+```jcl
 //PS2XMLCP JOB 'PLI COMPILER',MSGCLASS=X,MSGLEVEL=(1,1),                        
 //         CLASS=A,NOTIFY=&SYSUID,TIME=1                                        
 //************************************************************                  
