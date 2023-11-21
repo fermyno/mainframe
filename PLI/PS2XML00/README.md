@@ -330,7 +330,7 @@ Cabe ressaltar que, naquela época, não existia a Internet como conhecemos atua
 <br />
 <strong>JCL PARA EXECUÇÃO DO PROGRAMA</strong>
 
-```
+```jcl
 //PS2XMLRN JOB 'PL/I RUN',MSGCLASS=X,                                           
 //         MSGLEVEL=(1,1),CLASS=A,NOTIFY=&SYSUID                                
 //************************************************************                  
