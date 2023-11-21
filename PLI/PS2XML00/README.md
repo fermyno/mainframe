@@ -671,7 +671,7 @@ COD.:040 NOME: VICTOR MARTINS
 <br />
 <strong>VALORES DO DATA SET DE SAIDA EM FORMATO XML COM VALOR DE ENTRADA PARM 'GET '</strong>
 
-```
+```xml
 <clients>
     <client>
         <cod>001</cod>
