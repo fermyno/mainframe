@@ -22,7 +22,7 @@ Cabe ressaltar que, naquela época, não existia a Internet como conhecemos atua
 
 <strong>PROGRAMA PL/I</strong>
 
-```
+```pli
  /********************************************************************/ 
  /*                                                                  */ 
  /* NOME DO PROGRAMA : PL2XML00                                      */ 
