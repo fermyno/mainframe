@@ -51,7 +51,7 @@ Repositorio de estudios desarrollados como requisitos para la conclusión del Cu
 
 ## Código fuente del programa  
 
-```
+```cobol
 123456 IDENTIFICATION DIVISION. 
        PROGRAM-ID. FERMIN.
        REMARKS. TRABAJO FINAL - FUNDACION SAN VALERO - SEAS.
