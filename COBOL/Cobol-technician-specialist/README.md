@@ -1042,6 +1042,8 @@ Repositorio de estudios desarrollados como requisitos para la conclusión del Cu
 <br />
 <br />
 
+## Ejercicios del curso  
+
 <!-- # Actividades Desarrolladas -->
 📑 [Ver ejercicios del curso](actividades.md).
 <br />
