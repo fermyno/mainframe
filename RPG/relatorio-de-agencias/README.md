@@ -56,7 +56,8 @@ O relatório deve permitir:
   PRIME COMPUTER, INC
 - **(1982) IBM SYSTEM/34 RPG II REFERENCE MANUAL**  
   SC21-7667-4 FILE NO. S34-28 PROGRAM NUMBER 5726-RG1
-      
+<br />
+
 # Capturas de Tela:
 
 ![Página 1](report/relconta-pag-1.jpg)
