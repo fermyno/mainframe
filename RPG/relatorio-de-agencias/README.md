@@ -28,13 +28,22 @@ O relatório deve permitir:
 - O programa deve ser acessado através dos terminais "burros" existentes nas agências,
 - O programa deve ser executado em ambiente mainframe,
 - O programa deve utilizar a linguagem RPGII, visto que pode ser executado rapidamente através da submissão de um JCL.
+<br />
 
 # Programa:
 
-* **Programa:** [RELCONTA.JCL](jcl/RELCONTA.JCL)  
-  **Exemplo de data set:** [BANCO80.TXT](data-set/BANCO80.TXT)  
+📄 **Programa:** [RELCONTA.JCL](jcl/RELCONTA.JCL)  
+<br />
+
+
+# Data set:
+📄 **Exemplo de data set:** [BANCO80.TXT](data-set/BANCO80.TXT)  
+<br />
+
     
-  **Fontes consultadas:**  
+# Fontes consultadas:
+
+  **Livros e Manuais:**  
     - (1971) INTRODUCTION TO RPG II SYSTEMS
       IBM GC21-7514-1
     - (1973) BUSINESS SYSTEMS WITH PUNCHED CARD DATA PROCESSIND AND
