@@ -34,17 +34,23 @@ O relatório deve permitir:
 
 📄 **Programa:** [RELCONTA.JCL](jcl/RELCONTA.JCL)  
 <br />
-O programa é executado diretamente através do JCL no mainframe.
+O programa é executado diretamente através do JCL no mainframe.  
 Código fonte do JCL.
 <br />
-<br />
+````jcl
 
+````
+<br />
+<br />
 
 # Data set:
 📄 **Exemplo de data set:** [BANCO80.TXT](data-set/BANCO80.TXT)  
 <br />
 O Data set de entrada deve estar no seguinte formato:
+<br />
+````
 
+````
 <br />
 <br />
     
