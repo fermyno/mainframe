@@ -49,7 +49,10 @@ Código fonte do JCL.
 O Data set de entrada deve estar no seguinte formato:
 <br />
 ````
-
+11112-X      113.254,00Ala Larissa Olivia GomesBeco B, 503, Vila Jardim  3808332
+11113-X    1.235.489,12Heloise Carla Elisa     Rua Augusto Pestana, 630. 3291274
+11114-X          958,36Daniel Francisco Calder Rua Alda de Oliveira Ribas3324698
+11115-X            1,32Victor Paulo Manuel DiasRua Seiscentos e Trinta,143324580
 ````
 <br />
 <br />
