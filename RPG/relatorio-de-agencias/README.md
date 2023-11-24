@@ -35,7 +35,7 @@ O relatório deve permitir:
 📄 **Programa:** [RELCONTA.JCL](jcl/RELCONTA.JCL)  
 <br />
 O programa é executado diretamente através do JCL no mainframe.  
-Código fonte do JCL.
+Código fonte do JCL:
 <br />
 ````jcl
 //RELCONTA JOB (SETUP),                                               
