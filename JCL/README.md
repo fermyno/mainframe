@@ -32,6 +32,10 @@ Todos os programas contidos neste repositório foram testados por mim nos Sistem
     <td valign="left">JCL para criar um data set do tipo PS e inserir dados no mesmo usando o <strong>ICEGENER</strong>.</td>
   </tr>
   <tr>
+    <td valign="left"><a href="https://github.com/fermyno/mainframe/tree/main/JCL/src/NEWPDSM.txt"><strong>NEWPDSM</strong>:</a></td>
+    <td valign="left">JCL para criar um data set do tipo PDS e inserir um membro nesse mesmo data sets utilizando <strong>IEFBR14 e IEBGENER</strong>.</td>
+  </tr>
+  <tr>
     <td valign="left"><a href="https://github.com/fermyno/mainframe/tree/main/JCL/src/NEWPDSM1.txt"><strong>NEWPDSM1</strong>:</a></td>
     <td valign="left">JCL para criar membro em data sets do tipo PDS utilizando <strong>IEBGENER</strong>.</td>
   </tr>
