@@ -2,13 +2,16 @@
 //            MSGCLASS=X,MSGLEVEL=(1,1),                                
 //            NOTIFY=&SYSUID,TIME=1                                     
 //**********************************************************************
-//* JCL TO CREATE A PDS DATASET AND ADD MEMBER "MYMEMBER"                  
+//* JCL TO CREATE A PDS DATASET AND ADD MEMBER
+//**********************************************************************
+//* PARAMETERS                                                          
+// SET PDSLIB=FERMYNO.LIBS.CRUDPS        // PDS LIB NAME                
+// SET MEMBER=TESTE                      // PDM MEMBER NAME             
 //**********************************************************************
 //* CREATE NEW PDS DATA SET                                             
 //**********************************************************************
 //STEP001  EXEC PGM=IEFBR14                                             
-//DD1      DD DSN=FERMYNO.LIBS.PDSNAME,                                
-//            DISP=(NEW,CATLG,DELETE),                                  
+//DD1      DD DSN=&PDSLIB,DISP=(NEW,CATLG,DELETE),                      
 //            SPACE=(CYL,(10,100,4),RLSE),                              
 //            DCB=(LRECL=80,BLKSIZE=800,RECFM=FB,DSORG=PO)              
 //**********************************************************************
@@ -16,8 +19,7 @@
 //**********************************************************************
 //STEP002  EXEC PGM=IEBGENER                                            
 //SYSUT1   DD *                                                         
-//SYSUT2   DD DSN=FERMYNO.LIBS.PDSNAME(MYMEMBER),                         
-//            DISP=SHR                                                  
+//SYSUT2   DD DSN=DSN=&PDSLIB(&MEMBER),DISP=SHR                         
 //SYSPRINT DD SYSOUT=*                                                  
 //SYSIN    DD DUMMY                                                     
 //*
