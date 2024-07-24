@@ -5,7 +5,6 @@ Sistema de Controle de Medições Industriais, desenvolvido em linguagem REXX, e
 
 > **Warning**
 > 
-> 
 > Os arquivos estão mantidos neste repositório apenas para fins de demonstração e documentação. 
 
 # REXX LPG STORAGE:
