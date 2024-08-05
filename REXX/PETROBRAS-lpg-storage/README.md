@@ -1,6 +1,6 @@
 # Sistema de Controle de Medições Industriais
 
-Sistema de Controle de Medições Industriais, desenvolvido em linguagem REXX mainframe, como requisito para a conclusão do estágio na REFAP - Refinaria Alberto Pasqualini (PETROBRÁS - Petróleo Brasileiro S.A.).
+Sistema de Controle de Medições Industriais, desenvolvido em linguagem REXX mainframe, para a REFAP - Refinaria Alberto Pasqualini (PETROBRÁS - Petróleo Brasileiro S.A.).
 <br />
 
 > **Warning**
