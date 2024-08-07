@@ -1,4 +1,4 @@
-# Sistema de Controle de Medições Industriais
+# Programa de Controle de Medições Industriais
 
 Sistema de Controle de Medições Industriais desenvolvido em linguagem REXX mainframe, para utilização na Refinaria Alberto Pasqualini (PETROBRÁS).
 <br />
