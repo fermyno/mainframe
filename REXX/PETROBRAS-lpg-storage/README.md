@@ -5,7 +5,7 @@
 > 
 > Os arquivos estão mantidos neste repositório apenas para fins de demonstração e documentação. 
 
-# REXX LPG STORAGE:
+# Sobre o programa:
 
 Desenvolvimento de programa-piloto para cadastro das medições industriais realizadas nos tanques de Gás liquefeito de petróleo (LPG STORAGE). O objetivo era implementar um programa para permitir o arquivamento das medições realizadas nos tanques da refinaria, uma vez que os processos industriais exigem um controle permanente de variáveis, tais como: pressão, temperatura, nível, pH, vazão, entre outros. Cabe ressaltar que, naquela época, não havia Telemetria e as medições eram realizadas manualmente, <i>in situ</i>, com apontamentos em papel. Com a utilização do programa, a impressão de arquivo texto com os gráficos de medições realizados pelo programa foi considerado um grande avanço pelos profissionais do setor.
 
