@@ -47,9 +47,6 @@ O sistema LPG STORAGE deve permitir:
 ![Menu Principal](images/screenshot-02.jpg)
 <br>
 
-![Relatório de medições](images/screenshot-03.jpg)
-<br>
-
 
 # Referências:
 
