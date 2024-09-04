@@ -41,5 +41,3 @@ O sistema LPG STORAGE deve permitir:
   
 # Capturas de Tela:  
 <br>
-
-# Referências:
