@@ -37,7 +37,7 @@ O sistema LPG STORAGE deve permitir:
 
 # Programa:  
 * **Programa:** 
-  **Modelo de data set para uso no mainframe:** 
+
   
 # Capturas de Tela:  
 <br>
